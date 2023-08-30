@@ -16,7 +16,7 @@ new_pass=$3
 
 remote_user="root"
 
-while IFS=, read -r sys_type sys_name slot rack unum ipnum mac
+while IFS=, read -r service_tag blade_type sys_type sys_name slot rack unum ipnum mac
 do
     remote_cmd="racadm -r $ipnum -u $remote_user -p $remote_pass"
 

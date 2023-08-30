@@ -6,8 +6,9 @@
 #
 
 source_file=$1
-rack_name=$2
-ip_prefix=$3
+25gnic_file=$2
+rack_name=$3
+ip_prefix=$4
 
 cur_u="U00"
 cur_unum=0
@@ -29,7 +30,7 @@ while read line; do
         cur_cmcip="$ip_prefix.${cur_ip}0"
         cur_hostname="MOC-${rack_name//-/}$cur_u-CMC"
 
-        echo "cmc,$cur_hostname,,$rack_name,$cur_unum,$cur_cmcip,${line_arr[3]}"
+        echo ",FX2,cmc,$cur_hostname,,$rack_name,$cur_unum,$cur_cmcip,${line_arr[3]}"
     fi
 
     if [[ $line == Server* ]]; then
@@ -39,7 +40,10 @@ while read line; do
         cur_serverip=$ip_prefix.$cur_ip$cur_servercount
         cur_hostname="MOC-${rack_name//-/}$cur_u-$cur_serverstr-OBM"
 
-        echo "idrac,$cur_hostname,$cur_servername,$rack_name,$cur_unum,$cur_serverip,${line_arr[2]}"
+        blade_type="${line_arr[5]}"
+        blade_type="${blade_type//\*/}"
+
+        echo "${line_arr[1]},$blade_type,idrac,$cur_hostname,$cur_servername,$rack_name,$cur_unum,$cur_serverip,${line_arr[2]}"
 
         cur_servercount=$(($cur_servercount + 1))
     fi

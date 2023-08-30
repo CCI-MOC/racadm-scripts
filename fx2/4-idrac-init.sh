@@ -16,7 +16,7 @@ new_pass=$3
 
 remote_user="root"
 
-while IFS=, read -r sys_type sys_name slot rack unum ipnum mac
+while IFS=, read -r service_tag blade_type sys_type sys_name slot rack unum ipnum mac
 do
     remote_cmd="racadm -r $ipnum -u $remote_user -p $remote_pass"
 
@@ -35,5 +35,9 @@ do
 
         # Enable IPMI over LAN
         runCMD "$remote_cmd set iDRAC.IPMILan.Enable 1"
+
+        # Set boot device to PXE
+        runCMD "$remote_cmd config -g cfgServerInfo -o cfgServerBootOnce 0"
+        runCMD "$remote_cmd config -g cfgServerInfo -o cfgServerFirstBootDevice PXE"
     fi
 done < <(cat $csv_file)
