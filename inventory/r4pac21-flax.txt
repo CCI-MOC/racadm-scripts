@@ -41,7 +41,7 @@ Server-1a   DB6GXK2       E0:D8:48:E3:93:40         E0:D8:48:E3:93:41	PowerEdge 
 Server-1b   DB6HXK2       E0:D8:48:E3:94:10         E0:D8:48:E3:94:2F	PowerEdge FC430*
 Server-1c   DB7BXK2       E0:D8:48:E3:99:C9         E0:D8:48:E3:93:A9	PowerEdge FC430*
 Server-1d   DB7CXK2       E0:D8:48:E3:99:CA         E0:D8:48:E3:99:E7	PowerEdge FC430*
-Server-3a   DB7DXK2	  E0:D8:48:E3:93:5A         E0:D8:48:E3:93:5B	PowerEdge FC430*
+Server-3a   DB7DXK2	      E0:D8:48:E3:93:5A         E0:D8:48:E3:93:5B	PowerEdge FC430*
 Server-3b   DB7FXK2       E0:D8:48:E3:95:7E         E0:D8:48:E3:95:9D	PowerEdge FC430*
 Server-3c   DB7GXK2       E0:D8:48:E3:9B:37         E0:D8:48:E3:93:C3	PowerEdge FC430*
 Server-3d   DB7HXK2       E0:D8:48:E3:9B:38         E0:D8:48:E3:9B:55	PowerEdge FC430*
@@ -112,13 +112,13 @@ CMC         Present       N/A                       54:48:10:FE:6D:9E
 Server-1    3453PY2       F4:02:70:7B:12:20         F4:02:70:7B:12:21	PowerEdge FC830*    0c:42:a1:95:c5:24      0c:42:a1:95:c5:25
 Server-3    3454PY2       F4:02:70:7B:12:3A         F4:02:70:7B:12:3B	PowerEdge FC830*    b8:59:9f:1a:d9:86      b8:59:9f:1a:d9:87
 
-===== U07 - CMC-GV1W4Z2
+===== U07 - 54:48:10:FE:6E:CC CMC-GV1W4Z2
 <Name>      <Presence>    <BMC MAC Address>         <NIC1 MAC Address>   <Blade Type>       <NIC25-0 MAC Address>  <NIC25-1 MAC Address>
 CMC         Present       N/A                       54:48:10:FE:6E:CC
 Server-1    GTJJ9Z2       D8:D0:90:6D:13:80         D8:D0:90:6D:13:81	PowerEdge FC830*
 Server-3    GTJK9Z2       D8:D0:90:6D:13:9A         D8:D0:90:6D:13:9B	PowerEdge FC830*    b8:59:9f:3a:ea:0e      b8:59:9f:3a:ea:0f
 
-===== U05 - CMC-16K1DV2
+===== U05 - 54:48:10:FD:08:02 CMC-16K1DV2
 <Name>      <Presence>    <BMC MAC Address>         <NIC10 MAC Address>  <Blade Type>        <NIC25-0 MAC Address>  <NIC25-1 MAC Address>
 CMC         Present       N/A                       54:48:10:FD:08:02
 Server-1    15T3DV2       CC:C5:E5:E6:E5:E0         CC:C5:E5:E6:E5:E1   PowerEdge FC830*     24:8a:07:1e:2c:ce      24:8a:07:1e:2c:cf
