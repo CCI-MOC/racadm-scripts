@@ -1,0 +1,83 @@
+===== U29 - 54:48:10:F1:DE:96 CMC-7V5MCS2 R4-PC-C24-U29 192.168.0.16 =====
+<Name>      <Presence>    <BMC MAC Address>         <NIC1 MAC Address>  <Blade Type>        <NIC25-0 MAC Address>  <NIC25-1 MAC Address>
+CMC         Present       N/A                       54:48:10:F1:DE:96
+Server-1    Present       DC:F4:01:4A:16:40         DC:F4:01:4A:16:41	PowerEdge FC830
+Server-3    Present       DC:F4:01:4A:16:5A         DC:F4:01:4A:16:5B	PowerEdge FC830
+
+===== U27 - 54:48:10:FA:3D:92 CMC-4BBP2S2 R4-PC-C24-U27 192.168.0.20 =====
+<Name>      <Presence>    <BMC MAC Address>         <NIC1 MAC Address>  <Blade Type>        <NIC25-0 MAC Address>  <NIC25-1 MAC Address>
+CMC         Present       N/A                       54:48:10:FA:3D:92
+Server-1    Present       CC:C5:E5:12:12:D0         CC:C5:E5:12:12:D1	PowerEdge FC830
+Server-3    Present       CC:C5:E5:12:12:EA         CC:C5:E5:12:12:EB	PowerEdge FC830
+
+===== U25 - F4:8E:38:C7:58:46 CMC-98VLGK2 R4-PC-C24-U25 192.168.0.12 =====
+<Name>      <Presence>    <BMC MAC Address>         <NIC1 MAC Address>  <Blade Type>        <NIC25-0 MAC Address>  <NIC25-1 MAC Address>
+CMC         Present       N/A                       F4:8E:38:C7:58:46
+Server-1    Present       40:5C:FD:E0:AC:80         40:5C:FD:E0:AC:81	PowerEdge FC830
+Server-3    Present       40:5C:FD:E0:AC:9A         40:5C:FD:E0:AC:9B	PowerEdge FC830
+
+===== U23 - 54:48:10:F5:95:BE CMC-7V6HCS2 R4-PC-C24-U23 192.168.0.19 =====
+<Name>      <Presence>    <BMC MAC Address>         <NIC1 MAC Address>  <Blade Type>        <NIC25-0 MAC Address>  <NIC25-1 MAC Address>
+CMC         Present       N/A                       54:48:10:F5:95:BE
+Server-1    Present       CC:C5:E5:9D:41:20         CC:C5:E5:9D:41:21	PowerEdge FC830
+Server-3    Present       CC:C5:E5:9D:41:3A         CC:C5:E5:9D:41:3B	PowerEdge FC830
+
+===== U21 - 54:48:10:F5:95:0A CMC-7V5KCS2 R4-PC-C24-U21 192.168.0.27 =====
+<Name>      <Presence>    <BMC MAC Address>         <NIC1 MAC Address>  <Blade Type>        <NIC25-0 MAC Address>  <NIC25-1 MAC Address>
+CMC         Present       N/A                       54:48:10:F5:95:0A
+Server-1    Present       50:9A:4C:9A:21:23         A8:99:69:FC:4B:D0	PowerEdge FC830
+Server-3    Present       6C:2B:59:A1:EB:32         A8:99:69:FC:50:50	PowerEdge FC830
+
+===== U19 - 54:48:10:FE:6D:0C CMC-7NR5BZ2 R4-PC-C24-U19 192.168.0.26 =====
+<Name>      <Presence>    <BMC MAC Address>         <NIC1 MAC Address>  <Blade Type>        <NIC25-0 MAC Address>  <NIC25-1 MAC Address>
+CMC         Present       N/A                       54:48:10:FE:6D:0C
+Server-1    Present       D8:D0:90:B4:AF:30         D8:D0:90:B4:AF:31	PowerEdge FC830
+Server-3    Present       D8:D0:90:B4:AF:4A         D8:D0:90:B4:AF:4B	PowerEdge FC830
+
+===== U17 - 54:48:10:FE:6F:F4 CMC-DBKHBZ2 R4-PC-C24-U17 192.168.0.29 =====
+<Name>      <Presence>    <BMC MAC Address>         <NIC1 MAC Address>  <Blade Type>        <NIC25-0 MAC Address>  <NIC25-1 MAC Address>
+CMC         Present       N/A                       54:48:10:FE:6F:F4
+Server-1    Present       D8:D0:90:B9:78:30         D8:D0:90:B9:78:31	PowerEdge FC830
+Server-3    Present       D8:D0:90:B9:78:4A         D8:D0:90:B9:78:4B	PowerEdge FC830
+
+===== U15 - 54:48:10:FE:93:7A CMC-GW0CB03 R4-PC-C24-U15 192.168.0.15 =====
+<Name>      <Presence>    <BMC MAC Address>         <NIC1 MAC Address>  <Blade Type>        <NIC25-0 MAC Address>  <NIC25-1 MAC Address>
+CMC         Present       N/A                       54:48:10:FE:93:7A
+Server-1    Present       D8:D0:90:D8:55:70         D8:D0:90:D8:55:71	PowerEdge FC830
+Server-3    Present       D8:D0:90:D8:55:8A         D8:D0:90:D8:55:8B	PowerEdge FC830
+
+===== U13 - 54:48:10:FE:93:68 CMC-GW0DB03 R4-PC-C24-U13 192.168.0.21 =====
+<Name>      <Presence>    <BMC MAC Address>         <NIC1 MAC Address>  <Blade Type>        <NIC25-0 MAC Address>  <NIC25-1 MAC Address>
+CMC         Present       N/A                       54:48:10:FE:93:68
+Server-1    Present       00:4E:01:1F:D9:90         00:4E:01:1F:D9:91	PowerEdge FC830
+Server-3    Present       00:4E:01:1F:D9:AA         00:4E:01:1F:D9:AB	PowerEdge FC830
+
+===== U11 -54:48:10:FD:0A:0C CMC-B3PXHV2 R4-PC-C24-U11 192.168.0.28 =====
+<Name>      <Presence>    <BMC MAC Address>         <NIC1 MAC Address>  <Blade Type>        <NIC25-0 MAC Address>  <NIC25-1 MAC Address>
+CMC         Present       N/A                       54:48:10:FD:0A:0C
+Server-1    Present       DC:F4:01:8F:91:40         DC:F4:01:8F:91:41	PowerEdge FC830
+Server-3    Present       DC:F4:01:8F:91:5A         DC:F4:01:8F:91:5B	PowerEdge FC830
+
+===== U09 - 58:8A:5A:F2:30:32 CMC-8977RP2 R4-PC-C24-U09 192.168.0.18 =====
+<Name>      <Presence>    <BMC MAC Address>         <NIC1 MAC Address>  <Blade Type>        <NIC25-0 MAC Address>  <NIC25-1 MAC Address>
+CMC         Present       N/A                       58:8A:5A:F2:30:32
+Server-1    Present       B8:85:84:68:65:00         B8:85:84:68:65:01	PowerEdge FC830
+Server-3    Present       B8:85:84:68:65:1A         B8:85:84:68:65:1B	PowerEdge FC830
+
+===== U07 - 54:48:10:FE:6E:FA CMC-GHQ74Z2 R4-PC-C24-U07 192.168.0.64 =====
+<Name>      <Presence>    <BMC MAC Address>         <NIC1 MAC Address>  <Blade Type>        <NIC25-0 MAC Address>  <NIC25-1 MAC Address>
+CMC         Present       N/A                       54:48:10:FE:6E:FA
+Server-1    Present       D8:D0:90:69:D7:00         D8:D0:90:69:D7:01	PowerEdge FC830
+Server-3    Present       D8:D0:90:69:D7:1A         D8:D0:90:69:D7:1B	PowerEdge FC830
+
+===== U05 - 54:48:10:FA:39:4A CMC-B3NZHV2 R4-PC-C24-U05 192.168.0.31 =====
+<Name>      <Presence>    <BMC MAC Address>         <NIC1 MAC Address>  <Blade Type>        <NIC25-0 MAC Address>  <NIC25-1 MAC Address>
+CMC         Present       N/A                       54:48:10:FA:39:4A
+Server-1    Present       DC:F4:01:8F:6C:80         DC:F4:01:8F:6C:81	PowerEdge FC830
+Server-3    Present       DC:F4:01:8F:6C:9A         DC:F4:01:8F:6C:9B	PowerEdge FC830
+
+===== U03 - 54:48:10:FE:6D:48 CMC-5BCW4Z2 R4-PC-C24-U03 192.168.0.25 =====
+<Name>      <Presence>    <BMC MAC Address>         <NIC1 MAC Address>  <Blade Type>        <NIC25-0 MAC Address>  <NIC25-1 MAC Address>
+CMC         Present       N/A                       54:48:10:FE:6D:48
+Server-1    Present       D8:D0:90:6E:C0:40         D8:D0:90:6E:C0:41	PowerEdge FC830
+Server-3    Present       D8:D0:90:6E:C0:5A         D8:D0:90:6E:C0:5B	PowerEdge FC830
