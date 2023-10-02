@@ -1,3 +1,51 @@
+===== U37 - F4:8E:38:C7:4A:BE CMC-JVDBKH2 R4-PC-C22-U37 192.168.0.244 =====
+<Name>      <Presence>    <BMC MAC Address>         <NIC1 MAC Address>  <Blade Type>
+CMC         Present       N/A                       F4:8E:38:C7:4A:BE
+Server-1a   JGDXJH2       10:7D:1A:9C:30:40         10:7D:1A:9C:30:41	PowerEdge FC430
+Server-1b   JGF5KH2       10:7D:1A:9C:31:10         10:7D:1A:9C:31:2F	PowerEdge FC430
+Server-1c   JGF7KH2       10:7D:1A:9C:36:C9         10:7D:1A:9C:30:A9	PowerEdge FC430
+Server-1d   H9Q11Q2       10:7D:1A:9C:36:CA         10:7D:1A:9C:36:E7	PowerEdge FC430
+Server-3a   JGF3KH2       10:7D:1A:9C:30:5A         10:7D:1A:9C:30:5B	PowerEdge FC430
+Server-3b   JGF2KH2       10:7D:1A:9C:32:7E         10:7D:1A:9C:32:9D	PowerEdge FC430
+Server-3c   JGF4KH2       10:7D:1A:9C:38:37         10:7D:1A:9C:30:C3	PowerEdge FC430
+Server-3d   JGF6KH2       10:7D:1A:9C:38:38         10:7D:1A:9C:38:55	PowerEdge FC430
+
+===== U35 - F4:8E:38:C7:2E:D6 CMC-JMJTJH2 R4-PC-C22-U35 192.168.0.242 =====
+<Name>      <Presence>    <BMC MAC Address>         <NIC1 MAC Address>  <Blade Type>
+CMC         Present       N/A                       F4:8E:38:C7:2E:D6
+Server-1a   H9Q01Q2       10:7D:1A:C2:16:40         10:7D:1A:C2:16:41	PowerEdge FC430
+Server-1b   JVBHDH2       10:7D:1A:C2:17:10         10:7D:1A:C2:17:2F	PowerEdge FC430
+Server-1c   JVBGDH2       10:7D:1A:C2:1C:C9         10:7D:1A:C2:16:A9	PowerEdge FC430
+Server-1d   JVBKDH2       10:7D:1A:C2:1C:CA         10:7D:1A:C2:1C:E7	PowerEdge FC430
+Server-3a   JVBJDH2       10:7D:1A:C2:16:5A         10:7D:1A:C2:16:41	PowerEdge FC430
+Server-3b   JVBLHH2       10:7D:1A:C2:18:7E         10:7D:1A:C2:18:9D	PowerEdge FC430
+Server-3c   JGDSJH2       10:7D:1A:C2:1E:37         10:7D:1A:C2:17:2F	PowerEdge FC430
+Server-3d   JVBLDH2       10:7D:1A:C2:1E:38         10:7D:1A:C2:1E:55	PowerEdge FC430
+
+===== U33 - 50:9A:4C:B1:E0:B8 CMC-1HW05R2 R4-PC-C22-U33 192.168.0.239 =====
+<Name>      <Presence>    <BMC MAC Address>         <NIC1 MAC Address>  <Blade Type>
+CMC         Present       N/A                       50:9A:4C:B1:E0:B8
+Server-1a   1HQZ4R2       A8:99:69:AE:D6:C0         A8:99:69:AE:D6:C1	PowerEdge FC430
+Server-1b   4GRYKB2       A8:99:69:AE:D7:90         A8:99:69:AE:D7:AF	PowerEdge FC430
+Server-1c   H9K21Q2       A8:99:69:AE:DD:49         A8:99:69:AE:D7:29	PowerEdge FC430
+Server-1d   H9L01Q2       A8:99:69:AE:DD:4A         A8:99:69:AE:DD:67	PowerEdge FC430
+Server-3a   4WV81Q2       A8:99:69:AE:D6:DA         A8:99:69:AE:D6:DB	PowerEdge FC430
+Server-3b   1HR15R2       A8:99:69:AE:D8:FE         A8:99:69:AE:D9:1D	PowerEdge FC430
+Server-3c   9GHG482       A8:99:69:AE:DE:B7         A8:99:69:AE:D7:43	PowerEdge FC430
+Server-3d   9DRD482       A8:99:69:AE:DE:B8         A8:99:69:AE:DE:D5	PowerEdge FC430
+
+===== U31 - 50:9A:4C:AA:01:7A CMC-DBHFXK2 R4-PC-C22-U31 192.168.0.232 =====
+<Name>      <Presence>    <BMC MAC Address>         <NIC1 MAC Address>  <Blade Type>
+CMC         Present       N/A                       50:9A:4C:AA:01:7A
+Server-1a   D8HDXK2       E0:D8:48:E5:AE:40         E0:D8:48:E5:AE:41	PowerEdge FC430
+Server-1b   D8HFXK2       E0:D8:48:E5:AF:10         E0:D8:48:E5:AF:2F	PowerEdge FC430
+Server-1c   D8HGXK2       E0:D8:48:E5:B4:C9         E0:D8:48:E5:AE:A9	PowerEdge FC430
+Server-1d   D8HHXK2       E0:D8:48:E5:B4:CA         E0:D8:48:E5:B4:E7	PowerEdge FC430
+Server-3a   D8J9XK2       E0:D8:48:E5:AE:5A         E0:D8:48:E5:AE:5B	PowerEdge FC430
+Server-3b   D8JBXK2       E0:D8:48:E5:B0:7E         E0:D8:48:E5:B0:9D	PowerEdge FC430
+Server-3c   D8JCXK2       E0:D8:48:E5:B6:37         E0:D8:48:E5:AE:C3	PowerEdge FC430
+Server-3d   D8JDXK2       E0:D8:48:E5:B6:38         E0:D8:48:E5:B6:55	PowerEdge FC430
+
 ===== U29 - 54:48:10:F1:D7:BA CMC-FMG4XQ2 R4-PC-C22-U29 192.168.0.23 =====
 <Name>      <Presence>    <BMC MAC Address>         <NIC1 MAC Address>  <Blade Type>        <NIC25-0 MAC Address>  <NIC25-1 MAC Address>
 CMC         Present       N/A                       54:48:10:F1:D7:BA
