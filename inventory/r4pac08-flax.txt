@@ -1,0 +1,132 @@
+
+===== U37 - F4:8E:38:C7:7E:9E CMC-D92BXK2 R4-PA-C08-U37 =====
+<Name>      <Presence>    <BMC MAC Address>         <NIC0 MAC Address>  <Blade Type>        <NIC25-0 MAC Address>  <NIC1 MAC Address>     <PORT>
+U37-CMC     D92BXK2       N/A                       F4:8E:38:C7:7E:9E   PowerEdgeFX2s       N/A                    N/A                    N/A
+Server-1a   DBBGXK2       E0:D8:48:E3:0C:80         E0:D8:48:E3:0C:81   PowerEdgeFC430      N/A                    E0:D8:48:E3:0C:84      1/27/4
+Server-1b   DBCBXK2       E0:D8:48:E3:0D:50         E0:D8:48:E3:0D:6F   PowerEdgeFC430      N/A                    E0:D8:48:E3:0D:72      1/27/3
+Server-1c   DBCCXK2       E0:D8:48:E3:13:09         E0:D8:48:E3:0C:E9   PowerEdgeFC430      N/A                    E0:D8:48:E3:0C:EC      1/28/4
+Server-1d   DBBHXK2       E0:D8:48:E3:13:0A         E0:D8:48:E3:13:27   PowerEdgeFC430      N/A                    E0:D8:48:E3:13:2A      1/28/3
+Server-3a   DBCDXK2       E0:D8:48:E3:0C:9A         E0:D8:48:E3:0C:9B   PowerEdgeFC430      N/A                    E0:D8:48:E3:0C:9E      1/27/2
+Server-3b   DBCGXK2       E0:D8:48:E3:0E:BE         E0:D8:48:E3:0E:DD   PowerEdgeFC430      N/A                    E0:D8:48:E3:0E:E0      1/27/1
+Server-3c   DBCHXK2       E0:D8:48:E3:14:77         E0:D8:48:E3:0D:03   PowerEdgeFC430      N/A                    E0:D8:48:E3:0D:06      1/28/2
+Server-3d   DBCFXK2       E0:D8:48:E3:14:78         E0:D8:48:E3:14:95   PowerEdgeFC430      N/A                    E0:D8:48:E3:14:98      1/28/1
+
+===== U35 - 54:48:10:F1:DC:64 CMC-HBQ21Q2 R4-PA-C08-U35 =====
+<Name>      <Presence>    <BMC MAC Address>         <NIC0 MAC Address>  <Blade Type>        <NIC25-0 MAC Address>  <NIC1 MAC Address>     <PORT>
+U35-CMC     HBQ21Q2       N/A                       54:48:10:F1:DC:64   PowerEdgeFX2s       N/A                    N/A                    N/A
+Server-1a   HBF21Q2       A8:99:69:6D:E1:40         A8:99:69:6D:E1:41   PowerEdgeFC430      N/A                    A8:99:69:6D:E1:44      1/25/4
+Server-1b   HBD51Q2       A8:99:69:6D:E2:10         A8:99:69:6D:E2:2F   PowerEdgeFC430      N/A                    A8:99:69:6D:E2:32      1/25/3
+Server-1c   HBF41Q2       A8:99:69:6D:E7:C9         A8:99:69:6D:E1:A9   PowerEdgeFC430      N/A                    A8:99:69:6D:E1:AC      1/26/4
+Server-1d   HBF11Q2       A8:99:69:6D:E7:CA         A8:99:69:6D:E7:E7   PowerEdgeFC430      N/A                    A8:99:69:6D:E7:EA      1/26/3
+Server-3a   HBD41Q2       A8:99:69:6D:E1:5A         A8:99:69:6D:E1:5B   PowerEdgeFC430      N/A                    A8:99:69:6D:E1:5E      1/25/2
+Server-3b   HBF31Q2       A8:99:69:6D:E3:7E         A8:99:69:6D:E3:9D   PowerEdgeFC430      N/A                    A8:99:69:6D:E3:A0      1/25/1
+Server-3c   HBF01Q2       A8:99:69:6D:E9:37         A8:99:69:6D:E1:C3   PowerEdgeFC430      N/A                    A8:99:69:6D:E1:C6      1/26/2
+Server-3d   HBF51Q2       A8:99:69:6D:E9:38         A8:99:69:6D:E9:55   PowerEdgeFC430      N/A                    A8:99:69:6D:E9:58      1/26/1
+
+===== U33 - 50:9A:4C:AA:01:C0 CMC-DBJDXK2 R4-PA-C08-U33 =====
+<Name>      <Presence>    <BMC MAC Address>         <NIC0 MAC Address>  <Blade Type>        <NIC25-0 MAC Address>  <NIC1 MAC Address>     <PORT>
+U33-CMC     DBJDXK2       N/A                       50:9A:4C:AA:01:C0   PowerEdgeFX2s       N/A                    N/A                    N/A
+Server-1a   D8QCXK2       E0:D8:48:E6:AF:80         E0:D8:48:E6:AF:81   PowerEdgeFC430      N/A                    E0:D8:48:E6:AF:84      1/23/4
+Server-1b   D8QDXK2       E0:D8:48:E6:B0:50         E0:D8:48:E6:B0:6F   PowerEdgeFC430      N/A                    E0:D8:48:E6:B0:72      1/23/3
+Server-1c   D8QFXK2       E0:D8:48:E6:B6:09         E0:D8:48:E6:AF:E9   PowerEdgeFC430      N/A                    E0:D8:48:E6:AF:EC      1/24/4
+Server-1d   D8QGXK2       E0:D8:48:E6:B6:0A         E0:D8:48:E6:B6:27   PowerEdgeFC430      N/A                    E0:D8:48:E6:B6:2A      1/24/3
+Server-3a   D8QHXK2       E0:D8:48:E6:AF:9A         E0:D8:48:E6:AF:9B   PowerEdgeFC430      N/A                    E0:D8:48:E6:AF:9E      1/23/2
+Server-3b   D8R9XK2       E0:D8:48:E6:B1:BE         E0:D8:48:E6:B1:DD   PowerEdgeFC430      N/A                    E0:D8:48:E6:B1:E0      1/23/1
+Server-3c   D8RBXK2       E0:D8:48:E6:B7:77         E0:D8:48:E6:B0:03   PowerEdgeFC430      N/A                    E0:D8:48:E6:B0:06      1/24/2
+Server-3d   D8RCXK2       E0:D8:48:E6:B7:78         E0:D8:48:E6:B7:95   PowerEdgeFC430      N/A                    E0:D8:48:E6:B7:98      1/24/1
+
+===== U31 - F4:8E:38:C7:2D:A8 CMC-DR78DH2 R4-PA-C08-U31 =====
+<Name>      <Presence>    <BMC MAC Address>         <NIC0 MAC Address>  <Blade Type>        <NIC25-0 MAC Address>  <NIC1 MAC Address>     <PORT>
+U31-CMC     DR78DH2       N/A                       F4:8E:38:C7:2D:A8   PowerEdgeFX2s       N/A                    N/A                    N/A
+Server-1a   H9QZ0Q2       18:DB:F2:A4:8D:00         18:DB:F2:A4:8D:01   PowerEdgeFC430      N/A                    18:DB:F2:A4:8D:04      1/21/4
+Server-1b   H9Q41Q2       18:DB:F2:A4:8D:D0         18:DB:F2:A4:8D:EF   PowerEdgeFC430      N/A                    18:DB:F2:A4:8D:F2      1/21/3
+Server-1c   H9R01Q2       18:DB:F2:A4:93:89         18:DB:F2:A4:8D:69   PowerEdgeFC430      N/A                    18:DB:F2:A4:8D:6C      1/22/4
+Server-1d   H9Q51Q2       18:DB:F2:A4:93:8A         18:DB:F2:A4:93:A7   PowerEdgeFC430      N/A                    18:DB:F2:A4:93:AA      1/22/3
+Server-3a   H9R11Q2       18:DB:F2:A4:8D:1A         18:DB:F2:A4:8D:1B   PowerEdgeFC430      N/A                    18:DB:F2:A4:8D:1E      1/21/2
+Server-3b   H9P51Q2       18:DB:F2:A4:8F:3E         18:DB:F2:A4:8F:5D   PowerEdgeFC430      N/A                    18:DB:F2:A4:8F:60      1/21/1
+Server-3c   H9R21Q2       18:DB:F2:A4:94:F7         18:DB:F2:A4:8D:83   PowerEdgeFC430      N/A                    18:DB:F2:A4:8D:86      1/22/2
+Server-3d   H9P41Q2       18:DB:F2:A4:94:F8         18:DB:F2:A4:95:15   PowerEdgeFC430      N/A                    18:DB:F2:A4:95:18      1/22/1
+
+===== U29 - F4:8E:38:C7:55:7E CMC-98VMGK2 R4-PA-C08-U29 =====
+<Name>      <Presence>    <BMC MAC Address>         <NIC0 MAC Address>  <Blade Type>        <NIC25-0 MAC Address>  <NIC25-1 MAC Address>  <PORT>
+U29-CMC     98VMGK2       N/A                       F4:8E:38:C7:55:7E   PowerEdgeFX2s       N/A                    N/A                    N/A
+Server-1    15V1DV2       40:5C:FD:DF:E8:80         40:5C:FD:DF:E8:81   PowerEdgeFC830      24:8a:07:1e:31:4a      24:8a:07:1e:31:4b      1/7/3
+Server-3    GTJ05Z2       40:5C:FD:DF:E8:9A         40:5C:FD:DF:E8:9B   PowerEdgeFC830      7c:fe:90:cb:73:66      7c:fe:90:cb:73:67      1/7/4
+
+===== U27 - 54:48:10:F5:95:AE CMC-5C89DS2 R4-PA-C08-U27 =====
+<Name>      <Presence>    <BMC MAC Address>         <NIC0 MAC Address>  <Blade Type>        <NIC25-0 MAC Address>  <NIC25-1 MAC Address>  <PORT>
+U27-CMC     5C89DS2       N/A                       54:48:10:F5:95:AE   PowerEdgeFX2s       N/A                    N/A                    N/A
+Server-1    4N4V2S2       DC:F4:01:1D:FF:F0         DC:F4:01:1D:FF:F1   PowerEdgeFC830      7c:fe:90:cb:76:62      7c:fe:90:cb:76:63      1/7/1
+Server-3    4N4T2S2       DC:F4:01:1E:00:0A         DC:F4:01:1E:00:0B   PowerEdgeFC830      50:6b:4b:38:8c:2e      50:6b:4b:38:8c:2f      1/7/2
+
+===== U25 - 54:48:10:FE:6D:52 CMC-GV1K9Z2 R4-PA-C08-U25 =====
+<Name>      <Presence>    <BMC MAC Address>         <NIC0 MAC Address>  <Blade Type>        <NIC25-0 MAC Address>  <NIC25-1 MAC Address>  <PORT>
+U25-CMC     GV1K9Z2       N/A                       54:48:10:FE:6D:52   PowerEdgeFX2s       N/A                    N/A                    N/A
+Server-1    5C97DS2       D8:D0:90:6D:9A:40         D8:D0:90:6D:9A:41   PowerEdgeFC830      50:6b:4b:38:8e:0e      50:6b:4b:38:8e:0f      1/6/3
+Server-3    5BP7DS2       D8:D0:90:6D:9A:5A         D8:D0:90:6D:9A:5B   PowerEdgeFC830      50:6b:4b:38:8c:32      50:6b:4b:38:8c:33      1/6/4
+
+===== U23 - 54:48:10:FA:3B:F4 CMC-4N5V2S2 R4-PA-C08-U23 =====
+<Name>      <Presence>    <BMC MAC Address>         <NIC0 MAC Address>  <Blade Type>        <NIC25-0 MAC Address>  <NIC25-1 MAC Address>  <PORT>
+U23-CMC     4N5V2S2       N/A                       54:48:10:FA:3B:F4   PowerEdgeFX2s       N/A                    N/A                    N/A
+Server-1    DBFTRZ2       CC:C5:E5:43:F6:A0         CC:C5:E5:43:F6:A1   PowerEdgeFC830      24:8a:07:1e:85:b0      24:8a:07:1e:85:b1      1/6/1
+Server-3    DBFVRZ2       CC:C5:E5:43:F6:BA         CC:C5:E5:43:F6:BB   PowerEdgeFC830      50:6b:4b:23:25:c4      50:6b:4b:23:25:c5      1/6/2
+
+===== U21 - 54:48:10:FE:6D:58 CMC-DBJTRZ2 R4-PA-C08-U21 =====
+<Name>      <Presence>    <BMC MAC Address>         <NIC0 MAC Address>  <Blade Type>        <NIC25-0 MAC Address>  <NIC25-1 MAC Address>  <PORT>
+U21-CMC     DBJTRZ2       N/A                       54:48:10:FE:6D:58   PowerEdgeFX2s       N/A                    N/A                    N/A
+Server-1    DBFQRZ2       D8:D0:90:B8:D8:F0         D8:D0:90:B8:D8:F1   PowerEdgeFC830      50:6b:4b:38:8c:36      50:6b:4b:38:8c:37      1/5/3
+Server-3    DBFPRZ2       D8:D0:90:B8:D9:0A         D8:D0:90:B8:D9:0B   PowerEdgeFC830      50:6b:4b:38:8e:5a      50:6b:4b:38:8e:5b      1/5/4
+
+===== U19 - 54:48:10:FE:6E:3C CMC-DBKFBZ2 R4-PA-C08-U19 =====
+<Name>      <Presence>    <BMC MAC Address>         <NIC0 MAC Address>  <Blade Type>        <NIC25-0 MAC Address>  <NIC25-1 MAC Address>  <PORT>
+U19-CMC     DBKFBZ2       N/A                       54:48:10:FE:6E:3C   PowerEdgeFX2s       N/A                    N/A                    N/A
+Server-1    GVZ2B03       D8:D0:90:B8:83:30         D8:D0:90:B8:83:31   PowerEdgeFC830      7c:fe:90:cb:73:8e      7c:fe:90:cb:73:8f      1/5/1
+Server-3    GVYGB03       D8:D0:90:B8:83:4A         D8:D0:90:B8:83:4B   PowerEdgeFC830      50:6b:4b:38:8e:56      50:6b:4b:38:8e:57      1/5/2
+
+===== U17 - 58:8A:5A:EE:DB:B8 CMC-6PWKGQ2 R4-PA-C08-U17 =====
+<Name>      <Presence>    <BMC MAC Address>         <NIC0 MAC Address>  <Blade Type>        <NIC25-0 MAC Address>  <NIC25-1 MAC Address>  <PORT>
+U17-CMC     6PWKGQ2       N/A                       58:8A:5A:EE:DB:B8   PowerEdgeFX2s       N/A                    N/A                    N/A
+Server-1    6PXGGQ2       A8:99:69:18:21:40         A8:99:69:18:21:41   PowerEdgeFC830      50:6b:4b:38:8e:52      50:6b:4b:38:8e:53      1/4/3
+Server-3    6PXFGQ2       A8:99:69:18:21:5A         A8:99:69:18:21:5B   PowerEdgeFC830      50:6b:4b:38:8e:06      50:6b:4b:38:8e:07      1/4/4
+
+===== U15 - 54:48:10:FE:92:DA CMC-GW0GB03 R4-PA-C08-U15 =====
+<Name>      <Presence>    <BMC MAC Address>         <NIC0 MAC Address>  <Blade Type>        <NIC25-0 MAC Address>  <NIC25-1 MAC Address>  <PORT>
+U15-CMC     GW0GB03       N/A                       54:48:10:FE:92:DA   PowerEdgeFX2s       N/A                    N/A                    N/A
+Server-1    GTHX4Z2       00:4E:01:1F:C1:10         00:4E:01:1F:C1:11   PowerEdgeFC830      7c:fe:90:cb:72:4a      7c:fe:90:cb:72:4b      1/4/1
+Server-3    GTHY4Z2       00:4E:01:1F:C1:2A         00:4E:01:1F:C1:2B   PowerEdgeFC830      7c:fe:90:cb:76:f2      7c:fe:90:cb:76:f3      1/4/2
+
+===== U13 - 54:48:10:FE:6E:7E CMC-GV1J9Z2 R4-PA-C08-U13 =====
+<Name>      <Presence>    <BMC MAC Address>         <NIC0 MAC Address>  <Blade Type>        <NIC25-0 MAC Address>  <NIC25-1 MAC Address>  <PORT>
+U13-CMC     GV1J9Z2       N/A                       54:48:10:FE:6E:7E   PowerEdgeFX2s       N/A                    N/A                    N/A
+Server-1    H22BHQ2       D8:D0:90:6E:9B:80         D8:D0:90:6E:9B:81   PowerEdgeFC830      50:6b:4b:1d:5e:e2      50:6b:4b:1d:5e:e3      1/3/3
+Server-3    15S4DV2       D8:D0:90:6E:9B:9A         D8:D0:90:6E:9B:9B   PowerEdgeFC830      50:6b:4b:23:33:84      50:6b:4b:23:33:85      1/3/4
+
+===== U11 - 58:8A:5A:EE:DC:9C CMC-2PJCCP2 R4-PA-C08-U11 =====
+<Name>      <Presence>    <BMC MAC Address>         <NIC0 MAC Address>  <Blade Type>        <NIC25-0 MAC Address>  <NIC25-1 MAC Address>  <PORT>
+U11-CMC     2PJCCP2       N/A                       58:8A:5A:EE:DC:9C   PowerEdgeFX2s       N/A                    N/A                    N/A
+Server-1    344ZNY2       54:48:10:75:CF:00         54:48:10:75:CF:01   PowerEdgeFC830      7c:fe:90:cb:73:56      7c:fe:90:cb:73:57      1/3/1
+Server-3    C875MR2       54:48:10:75:CF:1A         54:48:10:75:CF:1B   PowerEdgeFC830      24:8a:07:1e:34:b2      24:8a:07:1e:34:b3      1/3/2
+
+===== U09 - 54:48:10:FD:09:3A CMC-B3PWHV2 R4-PA-C08-U09 =====
+<Name>      <Presence>    <BMC MAC Address>         <NIC0 MAC Address>  <Blade Type>        <NIC25-0 MAC Address>  <NIC25-1 MAC Address>  <PORT>
+U09-CMC     B3PWHV2       N/A                       54:48:10:FD:09:3A   PowerEdgeFX2s       N/A                    N/A                    N/A
+Server-1    B3MWHV2       DC:F4:01:8F:85:00         DC:F4:01:8F:85:01   PowerEdgeFC830      7c:fe:90:cb:73:4a      7c:fe:90:cb:73:4b      1/2/3
+Server-3    B3LYHV2       DC:F4:01:8F:85:1A         DC:F4:01:8F:85:1B   PowerEdgeFC830      7c:fe:90:cb:73:fa      7c:fe:90:cb:73:fb      1/2/4
+
+===== U07 - 54:48:10:FE:6F:5C CMC-GV115Z2 R4-PA-C08-U07 =====
+<Name>      <Presence>    <BMC MAC Address>         <NIC0 MAC Address>  <Blade Type>        <NIC25-0 MAC Address>  <NIC25-1 MAC Address>  <PORT>
+U07-CMC     GV115Z2       N/A                       54:48:10:FE:6F:5C   PowerEdgeFX2s       N/A                    N/A                    N/A
+Server-1    DBGNRZ2       D8:D0:90:6E:45:C0         D8:D0:90:6E:45:C1   PowerEdgeFC830      24:8a:07:b3:78:c6      24:8a:07:b3:78:c7      1/2/1
+Server-3    GTHW4Z2       D8:D0:90:6E:45:DA         D8:D0:90:6E:45:DB   PowerEdgeFC830      7c:fe:90:cb:73:26      7c:fe:90:cb:73:27      1/2/2
+
+===== U05 - 54:48:10:FA:3E:F8 CMC-4N3R2S2 R4-PA-C08-U05 =====
+<Name>      <Presence>    <BMC MAC Address>         <NIC0 MAC Address>  <Blade Type>        <NIC25-0 MAC Address>  <NIC25-1 MAC Address>  <PORT>
+U05-CMC     4N3R2S2       N/A                       54:48:10:FA:3E:F8   PowerEdgeFX2s       N/A                    N/A                    N/A
+Server-1    78SM903       CC:C5:E5:44:40:20         CC:C5:E5:44:40:21   PowerEdgeFC830      7c:fe:90:cb:73:ee      7c:fe:90:cb:73:ef      1/1/3
+Server-3    78SN903       CC:C5:E5:44:40:3A         CC:C5:E5:44:40:3B   PowerEdgeFC830      7c:fe:90:cb:74:1a      7c:fe:90:cb:74:1b      1/1/4
+
+===== U03 - F4:8E:38:C7:52:2C CMC-JP2ZHH2 R4-PA-C08-U03 =====
+<Name>      <Presence>    <BMC MAC Address>         <NIC0 MAC Address>  <Blade Type>        <NIC25-0 MAC Address>  <NIC25-1 MAC Address>  <PORT>
+U03-CMC     JP2ZHH2       N/A                       F4:8E:38:C7:52:2C   PowerEdgeFX2s       N/A                    N/A                    N/A
+Server-1    4N3T2S2       40:5C:FD:35:F4:40         40:5C:FD:35:F4:41   PowerEdgeFC830      7c:fe:90:cb:76:d2      7c:fe:90:cb:76:d3      1/1/1
+Server-3    4N3S2S2       40:5C:FD:35:F4:5A         40:5C:FD:35:F4:5B   PowerEdgeFC830      7c:fe:90:cb:76:9a      7c:fe:90:cb:76:9b      1/1/2
