@@ -13,15 +13,14 @@ runCMD () {
 csv_file=$1
 remote_pass=$2
 new_pass=$3
-only_this=$4
 
 remote_user="root"
 
 while IFS=, read -r service_tag blade_type sys_type sys_name slot rack unum ipnum mac nic1 nic2
 do
-    if [ "$ipnum" != "" ] && [ "$ipnum" != $only_this ]; then
-        continue
-    fi
+    #if [ "$ipnum" != "" ]; then
+    #    continue
+    #fi
 
     remote_cmd="racadm -r $ipnum -u $remote_user -p $remote_pass"
 
