@@ -1,0 +1,76 @@
+{
+    "nodes": [
+        {
+            "name": "MOC-R4PAC10U37-S3B",
+            "properties": {
+                "capabilities": "iscsi_boot:True"
+            },
+            "resource_class": "baremetal",
+            "driver": "ipmi",
+            "driver_info": {
+                "deploy_kernel": "42298c88-7927-4fa5-999a-a4f03a8c3272",
+                "deploy_ramdisk": "bb5adbc2-0d7a-4993-ace4-b30a6385c9fd",
+                "ipmi_username": "root",
+                "ipmi_password": "",
+                "ipmi_address": "10.2.13.196",
+                "ipmi_terminal_port": 13196
+            },
+            "ports": [
+                {
+                    "address": "",
+                    "physical_network": "datacentre",
+                    "local_link_connection": {
+                        "switch_info": "MOC-R4PAC10-SW-TORS-A",
+                        "port_id": "1/27/1",
+                        "switch_id": "3c:2c:30:37:ee:02"
+                    }
+                },
+                {
+                    "address": "",
+                    "physical_network": "datacentre",
+                    "local_link_connection": {
+                        "switch_info": "MOC-R4PAC10-SW-TORS-B",
+                        "port_id": "1/27/1",
+                        "switch_id": "0c:29:ef:ce:8b:a2"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "MOC-R4PAC10U35-S3A",
+            "properties": {
+                "capabilities": "iscsi_boot:True"
+            },
+            "resource_class": "baremetal",
+            "driver": "ipmi",
+            "driver_info": {
+                "deploy_kernel": "42298c88-7927-4fa5-999a-a4f03a8c3272",
+                "deploy_ramdisk": "bb5adbc2-0d7a-4993-ace4-b30a6385c9fd",
+                "ipmi_username": "root",
+                "ipmi_password": "",
+                "ipmi_address": "10.2.13.185",
+                "ipmi_terminal_port": 13185
+            },
+            "ports": [
+                {
+                    "address": "",
+                    "physical_network": "datacentre",
+                    "local_link_connection": {
+                        "switch_info": "MOC-R4PAC10-SW-TORS-A",
+                        "port_id": "1/25/2",
+                        "switch_id": "3c:2c:30:37:ee:02"
+                    }
+                },
+                {
+                    "address": "",
+                    "physical_network": "datacentre",
+                    "local_link_connection": {
+                        "switch_info": "MOC-R4PAC10-SW-TORS-B",
+                        "port_id": "1/25/2",
+                        "switch_id": "0c:29:ef:ce:8b:a2"
+                    }
+                }
+            ]
+        }
+    ]
+}

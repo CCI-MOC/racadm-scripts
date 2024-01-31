@@ -17,7 +17,7 @@ ignore_type=$4
 
 remote_user="root"
 
-while IFS=, read -r service_tag blade_type sys_type sys_name slot rack unum ipnum mac nic1 nic2
+while IFS=, read -r service_tag blade_type sys_type sys_name slot rack unum ipnum mac nic1 nic2 port
 do
     if [[ $hostname != "" ]]; then
         if [[ $hostname != $sys_name ]]; then

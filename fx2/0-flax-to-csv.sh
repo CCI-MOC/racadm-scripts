@@ -43,7 +43,11 @@ while read line; do
         blade_type="${line_arr[5]}"
         blade_type="${blade_type//\*/}"
 
-        echo "${line_arr[1]},$blade_type,idrac,$cur_hostname,$cur_servername,$rack_name,$cur_unum,$cur_serverip,${line_arr[2]},${line_arr[6]},${line_arr[7]}"
+        if [ $blade_type == "FC430" ]; then
+            echo "${line_arr[1]},$blade_type,idrac,$cur_hostname,$cur_servername,$rack_name,$cur_unum,$cur_serverip,${line_arr[2]},,,${line_arr[8]}"
+        else
+            echo "${line_arr[1]},$blade_type,idrac,$cur_hostname,$cur_servername,$rack_name,$cur_unum,$cur_serverip,${line_arr[2]},${line_arr[6]},${line_arr[7]},${line_arr[8]}"
+        fi
 
         cur_servercount=$(($cur_servercount + 1))
     fi

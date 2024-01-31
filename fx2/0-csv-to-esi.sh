@@ -18,7 +18,7 @@ json_out=""
 json_out="${json_out}{"
 json_out="${json_out}\"nodes\": ["
 
-while IFS=, read -r service_tag blade_type sys_type sys_name slot rack unum ipnum mac nic1 nic2
+while IFS=, read -r service_tag blade_type sys_type sys_name slot rack unum ipnum mac nic1 nic2 port
 do
     if [ "$sys_type" == "idrac" ]; then
         json_out="${json_out}{"
@@ -47,14 +47,14 @@ do
         json_out="${json_out}{\"address\": \"$nic1\", \"physical_network\": \"datacentre\","
         json_out="${json_out}\"local_link_connection\": {"
         json_out="${json_out}\"switch_info\": \"$nic1_switchname\","
-        json_out="${json_out}\"port_id\": \"\","
+        json_out="${json_out}\"port_id\": \"$port\","
         json_out="${json_out}\"switch_id\": \"$nic1_switchmac\""
         json_out="${json_out}}"
         json_out="${json_out}},"
         json_out="${json_out}{\"address\": \"$nic2\", \"physical_network\": \"datacentre\","
         json_out="${json_out}\"local_link_connection\": {"
         json_out="${json_out}\"switch_info\": \"$nic2_switchname\","
-        json_out="${json_out}\"port_id\": \"\","
+        json_out="${json_out}\"port_id\": \"$port\","
         json_out="${json_out}\"switch_id\": \"$nic2_switchmac\""
         json_out="${json_out}}"
         json_out="${json_out}}"

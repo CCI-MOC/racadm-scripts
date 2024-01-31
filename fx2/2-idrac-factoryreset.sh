@@ -15,7 +15,7 @@ remote_pass=$2
 
 remote_user="root"
 
-while IFS=, read -r service_tag blade_type sys_type sys_name slot rack unum ipnum mac nic1 nic2
+while IFS=, read -r service_tag blade_type sys_type sys_name slot rack unum ipnum mac nic1 nic2 port
 do
     #if [ "$ipnum" != "" ]; then
     #    continue
