@@ -11,7 +11,7 @@
         "deploy_kernel": "42298c88-7927-4fa5-999a-a4f03a8c3272",
         "deploy_ramdisk": "bb5adbc2-0d7a-4993-ace4-b30a6385c9fd",
         "ipmi_username": "root",
-        "ipmi_password": "idCM@DRll923",
+        "ipmi_password": "",
         "ipmi_address": "10.2.11.191",
         "ipmi_terminal_port": 11191
       },
@@ -47,7 +47,7 @@
         "deploy_kernel": "42298c88-7927-4fa5-999a-a4f03a8c3272",
         "deploy_ramdisk": "bb5adbc2-0d7a-4993-ace4-b30a6385c9fd",
         "ipmi_username": "root",
-        "ipmi_password": "idCM@DRll923",
+        "ipmi_password": "",
         "ipmi_address": "10.2.11.192",
         "ipmi_terminal_port": 11192
       },
@@ -83,7 +83,7 @@
         "deploy_kernel": "42298c88-7927-4fa5-999a-a4f03a8c3272",
         "deploy_ramdisk": "bb5adbc2-0d7a-4993-ace4-b30a6385c9fd",
         "ipmi_username": "root",
-        "ipmi_password": "idCM@DRll923",
+        "ipmi_password": "",
         "ipmi_address": "10.2.11.193",
         "ipmi_terminal_port": 11193
       },
@@ -119,7 +119,7 @@
         "deploy_kernel": "42298c88-7927-4fa5-999a-a4f03a8c3272",
         "deploy_ramdisk": "bb5adbc2-0d7a-4993-ace4-b30a6385c9fd",
         "ipmi_username": "root",
-        "ipmi_password": "idCM@DRll923",
+        "ipmi_password": "",
         "ipmi_address": "10.2.11.194",
         "ipmi_terminal_port": 11194
       },
@@ -155,7 +155,7 @@
         "deploy_kernel": "42298c88-7927-4fa5-999a-a4f03a8c3272",
         "deploy_ramdisk": "bb5adbc2-0d7a-4993-ace4-b30a6385c9fd",
         "ipmi_username": "root",
-        "ipmi_password": "idCM@DRll923",
+        "ipmi_password": "",
         "ipmi_address": "10.2.11.195",
         "ipmi_terminal_port": 11195
       },
@@ -191,7 +191,7 @@
         "deploy_kernel": "42298c88-7927-4fa5-999a-a4f03a8c3272",
         "deploy_ramdisk": "bb5adbc2-0d7a-4993-ace4-b30a6385c9fd",
         "ipmi_username": "root",
-        "ipmi_password": "idCM@DRll923",
+        "ipmi_password": "",
         "ipmi_address": "10.2.11.196",
         "ipmi_terminal_port": 11196
       },
@@ -227,7 +227,7 @@
         "deploy_kernel": "42298c88-7927-4fa5-999a-a4f03a8c3272",
         "deploy_ramdisk": "bb5adbc2-0d7a-4993-ace4-b30a6385c9fd",
         "ipmi_username": "root",
-        "ipmi_password": "idCM@DRll923",
+        "ipmi_password": "",
         "ipmi_address": "10.2.11.197",
         "ipmi_terminal_port": 11197
       },
@@ -263,7 +263,7 @@
         "deploy_kernel": "42298c88-7927-4fa5-999a-a4f03a8c3272",
         "deploy_ramdisk": "bb5adbc2-0d7a-4993-ace4-b30a6385c9fd",
         "ipmi_username": "root",
-        "ipmi_password": "idCM@DRll923",
+        "ipmi_password": "",
         "ipmi_address": "10.2.11.198",
         "ipmi_terminal_port": 11198
       },
@@ -299,7 +299,7 @@
         "deploy_kernel": "42298c88-7927-4fa5-999a-a4f03a8c3272",
         "deploy_ramdisk": "bb5adbc2-0d7a-4993-ace4-b30a6385c9fd",
         "ipmi_username": "root",
-        "ipmi_password": "idCM@DRll923",
+        "ipmi_password": "",
         "ipmi_address": "10.2.11.181",
         "ipmi_terminal_port": 11181
       },
@@ -335,7 +335,7 @@
         "deploy_kernel": "42298c88-7927-4fa5-999a-a4f03a8c3272",
         "deploy_ramdisk": "bb5adbc2-0d7a-4993-ace4-b30a6385c9fd",
         "ipmi_username": "root",
-        "ipmi_password": "idCM@DRll923",
+        "ipmi_password": "",
         "ipmi_address": "10.2.11.182",
         "ipmi_terminal_port": 11182
       },
@@ -371,7 +371,7 @@
         "deploy_kernel": "42298c88-7927-4fa5-999a-a4f03a8c3272",
         "deploy_ramdisk": "bb5adbc2-0d7a-4993-ace4-b30a6385c9fd",
         "ipmi_username": "root",
-        "ipmi_password": "idCM@DRll923",
+        "ipmi_password": "",
         "ipmi_address": "10.2.11.183",
         "ipmi_terminal_port": 11183
       },
@@ -407,7 +407,7 @@
         "deploy_kernel": "42298c88-7927-4fa5-999a-a4f03a8c3272",
         "deploy_ramdisk": "bb5adbc2-0d7a-4993-ace4-b30a6385c9fd",
         "ipmi_username": "root",
-        "ipmi_password": "idCM@DRll923",
+        "ipmi_password": "",
         "ipmi_address": "10.2.11.184",
         "ipmi_terminal_port": 11184
       },
@@ -443,7 +443,7 @@
         "deploy_kernel": "42298c88-7927-4fa5-999a-a4f03a8c3272",
         "deploy_ramdisk": "bb5adbc2-0d7a-4993-ace4-b30a6385c9fd",
         "ipmi_username": "root",
-        "ipmi_password": "idCM@DRll923",
+        "ipmi_password": "",
         "ipmi_address": "10.2.11.185",
         "ipmi_terminal_port": 11185
       },
@@ -479,7 +479,7 @@
         "deploy_kernel": "42298c88-7927-4fa5-999a-a4f03a8c3272",
         "deploy_ramdisk": "bb5adbc2-0d7a-4993-ace4-b30a6385c9fd",
         "ipmi_username": "root",
-        "ipmi_password": "idCM@DRll923",
+        "ipmi_password": "",
         "ipmi_address": "10.2.11.186",
         "ipmi_terminal_port": 11186
       },
@@ -515,7 +515,7 @@
         "deploy_kernel": "42298c88-7927-4fa5-999a-a4f03a8c3272",
         "deploy_ramdisk": "bb5adbc2-0d7a-4993-ace4-b30a6385c9fd",
         "ipmi_username": "root",
-        "ipmi_password": "idCM@DRll923",
+        "ipmi_password": "",
         "ipmi_address": "10.2.11.187",
         "ipmi_terminal_port": 11187
       },
@@ -551,7 +551,7 @@
         "deploy_kernel": "42298c88-7927-4fa5-999a-a4f03a8c3272",
         "deploy_ramdisk": "bb5adbc2-0d7a-4993-ace4-b30a6385c9fd",
         "ipmi_username": "root",
-        "ipmi_password": "idCM@DRll923",
+        "ipmi_password": "",
         "ipmi_address": "10.2.11.188",
         "ipmi_terminal_port": 11188
       },
@@ -587,7 +587,7 @@
         "deploy_kernel": "42298c88-7927-4fa5-999a-a4f03a8c3272",
         "deploy_ramdisk": "bb5adbc2-0d7a-4993-ace4-b30a6385c9fd",
         "ipmi_username": "root",
-        "ipmi_password": "idCM@DRll923",
+        "ipmi_password": "",
         "ipmi_address": "10.2.11.171",
         "ipmi_terminal_port": 11171
       },
@@ -623,7 +623,7 @@
         "deploy_kernel": "42298c88-7927-4fa5-999a-a4f03a8c3272",
         "deploy_ramdisk": "bb5adbc2-0d7a-4993-ace4-b30a6385c9fd",
         "ipmi_username": "root",
-        "ipmi_password": "idCM@DRll923",
+        "ipmi_password": "",
         "ipmi_address": "10.2.11.172",
         "ipmi_terminal_port": 11172
       },
@@ -659,7 +659,7 @@
         "deploy_kernel": "42298c88-7927-4fa5-999a-a4f03a8c3272",
         "deploy_ramdisk": "bb5adbc2-0d7a-4993-ace4-b30a6385c9fd",
         "ipmi_username": "root",
-        "ipmi_password": "idCM@DRll923",
+        "ipmi_password": "",
         "ipmi_address": "10.2.11.173",
         "ipmi_terminal_port": 11173
       },
@@ -695,7 +695,7 @@
         "deploy_kernel": "42298c88-7927-4fa5-999a-a4f03a8c3272",
         "deploy_ramdisk": "bb5adbc2-0d7a-4993-ace4-b30a6385c9fd",
         "ipmi_username": "root",
-        "ipmi_password": "idCM@DRll923",
+        "ipmi_password": "",
         "ipmi_address": "10.2.11.174",
         "ipmi_terminal_port": 11174
       },
@@ -731,7 +731,7 @@
         "deploy_kernel": "42298c88-7927-4fa5-999a-a4f03a8c3272",
         "deploy_ramdisk": "bb5adbc2-0d7a-4993-ace4-b30a6385c9fd",
         "ipmi_username": "root",
-        "ipmi_password": "idCM@DRll923",
+        "ipmi_password": "",
         "ipmi_address": "10.2.11.175",
         "ipmi_terminal_port": 11175
       },
@@ -767,7 +767,7 @@
         "deploy_kernel": "42298c88-7927-4fa5-999a-a4f03a8c3272",
         "deploy_ramdisk": "bb5adbc2-0d7a-4993-ace4-b30a6385c9fd",
         "ipmi_username": "root",
-        "ipmi_password": "idCM@DRll923",
+        "ipmi_password": "",
         "ipmi_address": "10.2.11.176",
         "ipmi_terminal_port": 11176
       },
@@ -803,7 +803,7 @@
         "deploy_kernel": "42298c88-7927-4fa5-999a-a4f03a8c3272",
         "deploy_ramdisk": "bb5adbc2-0d7a-4993-ace4-b30a6385c9fd",
         "ipmi_username": "root",
-        "ipmi_password": "idCM@DRll923",
+        "ipmi_password": "",
         "ipmi_address": "10.2.11.177",
         "ipmi_terminal_port": 11177
       },
@@ -839,7 +839,7 @@
         "deploy_kernel": "42298c88-7927-4fa5-999a-a4f03a8c3272",
         "deploy_ramdisk": "bb5adbc2-0d7a-4993-ace4-b30a6385c9fd",
         "ipmi_username": "root",
-        "ipmi_password": "idCM@DRll923",
+        "ipmi_password": "",
         "ipmi_address": "10.2.11.161",
         "ipmi_terminal_port": 11161
       },
@@ -875,7 +875,7 @@
         "deploy_kernel": "42298c88-7927-4fa5-999a-a4f03a8c3272",
         "deploy_ramdisk": "bb5adbc2-0d7a-4993-ace4-b30a6385c9fd",
         "ipmi_username": "root",
-        "ipmi_password": "idCM@DRll923",
+        "ipmi_password": "",
         "ipmi_address": "10.2.11.163",
         "ipmi_terminal_port": 11163
       },
@@ -911,7 +911,7 @@
         "deploy_kernel": "42298c88-7927-4fa5-999a-a4f03a8c3272",
         "deploy_ramdisk": "bb5adbc2-0d7a-4993-ace4-b30a6385c9fd",
         "ipmi_username": "root",
-        "ipmi_password": "idCM@DRll923",
+        "ipmi_password": "",
         "ipmi_address": "10.2.11.164",
         "ipmi_terminal_port": 11164
       },
@@ -947,7 +947,7 @@
         "deploy_kernel": "42298c88-7927-4fa5-999a-a4f03a8c3272",
         "deploy_ramdisk": "bb5adbc2-0d7a-4993-ace4-b30a6385c9fd",
         "ipmi_username": "root",
-        "ipmi_password": "idCM@DRll923",
+        "ipmi_password": "",
         "ipmi_address": "10.2.11.165",
         "ipmi_terminal_port": 11165
       },
@@ -983,7 +983,7 @@
         "deploy_kernel": "42298c88-7927-4fa5-999a-a4f03a8c3272",
         "deploy_ramdisk": "bb5adbc2-0d7a-4993-ace4-b30a6385c9fd",
         "ipmi_username": "root",
-        "ipmi_password": "idCM@DRll923",
+        "ipmi_password": "",
         "ipmi_address": "10.2.11.166",
         "ipmi_terminal_port": 11166
       },
@@ -1019,7 +1019,7 @@
         "deploy_kernel": "42298c88-7927-4fa5-999a-a4f03a8c3272",
         "deploy_ramdisk": "bb5adbc2-0d7a-4993-ace4-b30a6385c9fd",
         "ipmi_username": "root",
-        "ipmi_password": "idCM@DRll923",
+        "ipmi_password": "",
         "ipmi_address": "10.2.11.167",
         "ipmi_terminal_port": 11167
       },
@@ -1055,7 +1055,7 @@
         "deploy_kernel": "42298c88-7927-4fa5-999a-a4f03a8c3272",
         "deploy_ramdisk": "bb5adbc2-0d7a-4993-ace4-b30a6385c9fd",
         "ipmi_username": "root",
-        "ipmi_password": "idCM@DRll923",
+        "ipmi_password": "",
         "ipmi_address": "10.2.11.168",
         "ipmi_terminal_port": 11168
       },
@@ -1091,7 +1091,7 @@
         "deploy_kernel": "42298c88-7927-4fa5-999a-a4f03a8c3272",
         "deploy_ramdisk": "bb5adbc2-0d7a-4993-ace4-b30a6385c9fd",
         "ipmi_username": "root",
-        "ipmi_password": "idCM@DRll923",
+        "ipmi_password": "",
         "ipmi_address": "10.2.11.151",
         "ipmi_terminal_port": 11151
       },
@@ -1127,7 +1127,7 @@
         "deploy_kernel": "42298c88-7927-4fa5-999a-a4f03a8c3272",
         "deploy_ramdisk": "bb5adbc2-0d7a-4993-ace4-b30a6385c9fd",
         "ipmi_username": "root",
-        "ipmi_password": "idCM@DRll923",
+        "ipmi_password": "",
         "ipmi_address": "10.2.11.152",
         "ipmi_terminal_port": 11152
       },
@@ -1163,7 +1163,7 @@
         "deploy_kernel": "42298c88-7927-4fa5-999a-a4f03a8c3272",
         "deploy_ramdisk": "bb5adbc2-0d7a-4993-ace4-b30a6385c9fd",
         "ipmi_username": "root",
-        "ipmi_password": "idCM@DRll923",
+        "ipmi_password": "",
         "ipmi_address": "10.2.11.141",
         "ipmi_terminal_port": 11141
       },
@@ -1199,7 +1199,7 @@
         "deploy_kernel": "42298c88-7927-4fa5-999a-a4f03a8c3272",
         "deploy_ramdisk": "bb5adbc2-0d7a-4993-ace4-b30a6385c9fd",
         "ipmi_username": "root",
-        "ipmi_password": "idCM@DRll923",
+        "ipmi_password": "",
         "ipmi_address": "10.2.11.142",
         "ipmi_terminal_port": 11142
       },
@@ -1235,7 +1235,7 @@
         "deploy_kernel": "42298c88-7927-4fa5-999a-a4f03a8c3272",
         "deploy_ramdisk": "bb5adbc2-0d7a-4993-ace4-b30a6385c9fd",
         "ipmi_username": "root",
-        "ipmi_password": "idCM@DRll923",
+        "ipmi_password": "",
         "ipmi_address": "10.2.11.131",
         "ipmi_terminal_port": 11131
       },
@@ -1271,7 +1271,7 @@
         "deploy_kernel": "42298c88-7927-4fa5-999a-a4f03a8c3272",
         "deploy_ramdisk": "bb5adbc2-0d7a-4993-ace4-b30a6385c9fd",
         "ipmi_username": "root",
-        "ipmi_password": "idCM@DRll923",
+        "ipmi_password": "",
         "ipmi_address": "10.2.11.132",
         "ipmi_terminal_port": 11132
       },
@@ -1307,7 +1307,7 @@
         "deploy_kernel": "42298c88-7927-4fa5-999a-a4f03a8c3272",
         "deploy_ramdisk": "bb5adbc2-0d7a-4993-ace4-b30a6385c9fd",
         "ipmi_username": "root",
-        "ipmi_password": "idCM@DRll923",
+        "ipmi_password": "",
         "ipmi_address": "10.2.11.121",
         "ipmi_terminal_port": 11121
       },
@@ -1343,7 +1343,7 @@
         "deploy_kernel": "42298c88-7927-4fa5-999a-a4f03a8c3272",
         "deploy_ramdisk": "bb5adbc2-0d7a-4993-ace4-b30a6385c9fd",
         "ipmi_username": "root",
-        "ipmi_password": "idCM@DRll923",
+        "ipmi_password": "",
         "ipmi_address": "10.2.11.122",
         "ipmi_terminal_port": 11122
       },
@@ -1379,7 +1379,7 @@
         "deploy_kernel": "42298c88-7927-4fa5-999a-a4f03a8c3272",
         "deploy_ramdisk": "bb5adbc2-0d7a-4993-ace4-b30a6385c9fd",
         "ipmi_username": "root",
-        "ipmi_password": "idCM@DRll923",
+        "ipmi_password": "",
         "ipmi_address": "10.2.11.111",
         "ipmi_terminal_port": 11111
       },
@@ -1415,7 +1415,7 @@
         "deploy_kernel": "42298c88-7927-4fa5-999a-a4f03a8c3272",
         "deploy_ramdisk": "bb5adbc2-0d7a-4993-ace4-b30a6385c9fd",
         "ipmi_username": "root",
-        "ipmi_password": "idCM@DRll923",
+        "ipmi_password": "",
         "ipmi_address": "10.2.11.112",
         "ipmi_terminal_port": 11112
       },
@@ -1451,7 +1451,7 @@
         "deploy_kernel": "42298c88-7927-4fa5-999a-a4f03a8c3272",
         "deploy_ramdisk": "bb5adbc2-0d7a-4993-ace4-b30a6385c9fd",
         "ipmi_username": "root",
-        "ipmi_password": "idCM@DRll923",
+        "ipmi_password": "",
         "ipmi_address": "10.2.11.101",
         "ipmi_terminal_port": 11101
       },
@@ -1487,7 +1487,7 @@
         "deploy_kernel": "42298c88-7927-4fa5-999a-a4f03a8c3272",
         "deploy_ramdisk": "bb5adbc2-0d7a-4993-ace4-b30a6385c9fd",
         "ipmi_username": "root",
-        "ipmi_password": "idCM@DRll923",
+        "ipmi_password": "",
         "ipmi_address": "10.2.11.102",
         "ipmi_terminal_port": 11102
       },
@@ -1523,7 +1523,7 @@
         "deploy_kernel": "42298c88-7927-4fa5-999a-a4f03a8c3272",
         "deploy_ramdisk": "bb5adbc2-0d7a-4993-ace4-b30a6385c9fd",
         "ipmi_username": "root",
-        "ipmi_password": "idCM@DRll923",
+        "ipmi_password": "",
         "ipmi_address": "10.2.11.91",
         "ipmi_terminal_port": 11091
       },
@@ -1559,7 +1559,7 @@
         "deploy_kernel": "42298c88-7927-4fa5-999a-a4f03a8c3272",
         "deploy_ramdisk": "bb5adbc2-0d7a-4993-ace4-b30a6385c9fd",
         "ipmi_username": "root",
-        "ipmi_password": "idCM@DRll923",
+        "ipmi_password": "",
         "ipmi_address": "10.2.11.92",
         "ipmi_terminal_port": 11092
       },
@@ -1595,7 +1595,7 @@
         "deploy_kernel": "42298c88-7927-4fa5-999a-a4f03a8c3272",
         "deploy_ramdisk": "bb5adbc2-0d7a-4993-ace4-b30a6385c9fd",
         "ipmi_username": "root",
-        "ipmi_password": "idCM@DRll923",
+        "ipmi_password": "",
         "ipmi_address": "10.2.11.81",
         "ipmi_terminal_port": 11081
       },
@@ -1631,7 +1631,7 @@
         "deploy_kernel": "42298c88-7927-4fa5-999a-a4f03a8c3272",
         "deploy_ramdisk": "bb5adbc2-0d7a-4993-ace4-b30a6385c9fd",
         "ipmi_username": "root",
-        "ipmi_password": "idCM@DRll923",
+        "ipmi_password": "",
         "ipmi_address": "10.2.11.82",
         "ipmi_terminal_port": 11082
       },
@@ -1667,7 +1667,7 @@
         "deploy_kernel": "42298c88-7927-4fa5-999a-a4f03a8c3272",
         "deploy_ramdisk": "bb5adbc2-0d7a-4993-ace4-b30a6385c9fd",
         "ipmi_username": "root",
-        "ipmi_password": "idCM@DRll923",
+        "ipmi_password": "",
         "ipmi_address": "10.2.11.71",
         "ipmi_terminal_port": 11071
       },
@@ -1703,7 +1703,7 @@
         "deploy_kernel": "42298c88-7927-4fa5-999a-a4f03a8c3272",
         "deploy_ramdisk": "bb5adbc2-0d7a-4993-ace4-b30a6385c9fd",
         "ipmi_username": "root",
-        "ipmi_password": "idCM@DRll923",
+        "ipmi_password": "",
         "ipmi_address": "10.2.11.72",
         "ipmi_terminal_port": 11072
       },
@@ -1739,7 +1739,7 @@
         "deploy_kernel": "42298c88-7927-4fa5-999a-a4f03a8c3272",
         "deploy_ramdisk": "bb5adbc2-0d7a-4993-ace4-b30a6385c9fd",
         "ipmi_username": "root",
-        "ipmi_password": "idCM@DRll923",
+        "ipmi_password": "",
         "ipmi_address": "10.2.11.61",
         "ipmi_terminal_port": 11061
       },
@@ -1775,7 +1775,7 @@
         "deploy_kernel": "42298c88-7927-4fa5-999a-a4f03a8c3272",
         "deploy_ramdisk": "bb5adbc2-0d7a-4993-ace4-b30a6385c9fd",
         "ipmi_username": "root",
-        "ipmi_password": "idCM@DRll923",
+        "ipmi_password": "",
         "ipmi_address": "10.2.11.62",
         "ipmi_terminal_port": 11062
       },
@@ -1811,7 +1811,7 @@
         "deploy_kernel": "42298c88-7927-4fa5-999a-a4f03a8c3272",
         "deploy_ramdisk": "bb5adbc2-0d7a-4993-ace4-b30a6385c9fd",
         "ipmi_username": "root",
-        "ipmi_password": "idCM@DRll923",
+        "ipmi_password": "",
         "ipmi_address": "10.2.11.51",
         "ipmi_terminal_port": 11051
       },
@@ -1847,7 +1847,7 @@
         "deploy_kernel": "42298c88-7927-4fa5-999a-a4f03a8c3272",
         "deploy_ramdisk": "bb5adbc2-0d7a-4993-ace4-b30a6385c9fd",
         "ipmi_username": "root",
-        "ipmi_password": "idCM@DRll923",
+        "ipmi_password": "",
         "ipmi_address": "10.2.11.52",
         "ipmi_terminal_port": 11052
       },
@@ -1883,7 +1883,7 @@
         "deploy_kernel": "42298c88-7927-4fa5-999a-a4f03a8c3272",
         "deploy_ramdisk": "bb5adbc2-0d7a-4993-ace4-b30a6385c9fd",
         "ipmi_username": "root",
-        "ipmi_password": "idCM@DRll923",
+        "ipmi_password": "",
         "ipmi_address": "10.2.11.41",
         "ipmi_terminal_port": 11041
       },
@@ -1919,7 +1919,7 @@
         "deploy_kernel": "42298c88-7927-4fa5-999a-a4f03a8c3272",
         "deploy_ramdisk": "bb5adbc2-0d7a-4993-ace4-b30a6385c9fd",
         "ipmi_username": "root",
-        "ipmi_password": "idCM@DRll923",
+        "ipmi_password": "",
         "ipmi_address": "10.2.11.42",
         "ipmi_terminal_port": 11042
       },
@@ -1955,7 +1955,7 @@
         "deploy_kernel": "42298c88-7927-4fa5-999a-a4f03a8c3272",
         "deploy_ramdisk": "bb5adbc2-0d7a-4993-ace4-b30a6385c9fd",
         "ipmi_username": "root",
-        "ipmi_password": "idCM@DRll923",
+        "ipmi_password": "",
         "ipmi_address": "10.2.11.31",
         "ipmi_terminal_port": 11031
       },
@@ -1991,7 +1991,7 @@
         "deploy_kernel": "42298c88-7927-4fa5-999a-a4f03a8c3272",
         "deploy_ramdisk": "bb5adbc2-0d7a-4993-ace4-b30a6385c9fd",
         "ipmi_username": "root",
-        "ipmi_password": "idCM@DRll923",
+        "ipmi_password": "",
         "ipmi_address": "10.2.11.32",
         "ipmi_terminal_port": 11032
       },
@@ -2027,7 +2027,7 @@
         "deploy_kernel": "42298c88-7927-4fa5-999a-a4f03a8c3272",
         "deploy_ramdisk": "bb5adbc2-0d7a-4993-ace4-b30a6385c9fd",
         "ipmi_username": "root",
-        "ipmi_password": "idCM@DRll923",
+        "ipmi_password": "",
         "ipmi_address": "10.2.11.21",
         "ipmi_terminal_port": 11021
       },
@@ -2063,7 +2063,7 @@
         "deploy_kernel": "42298c88-7927-4fa5-999a-a4f03a8c3272",
         "deploy_ramdisk": "bb5adbc2-0d7a-4993-ace4-b30a6385c9fd",
         "ipmi_username": "root",
-        "ipmi_password": "idCM@DRll923",
+        "ipmi_password": "",
         "ipmi_address": "10.2.11.22",
         "ipmi_terminal_port": 11022
       },
