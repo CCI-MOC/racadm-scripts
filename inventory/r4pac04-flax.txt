@@ -1,0 +1,23 @@
+===== U29 - 54:9F:35:19:46:0A CMC-CXX0942 R4-PA-C04-JOE =====
+<Name>      <Presence>    <BMC MAC Address>         <NIC0 MAC Address>  <Blade Type>        <NIC25-0 MAC Address>  <NIC25-1 MAC Address>  <PORT>
+U29-CMC     CXX0942       N/A                       54:9F:35:19:46:0A   PowerEdgeFX2s       N/A                    N/A                    N/A
+Server-1    CXT4942       4C:76:25:22:49:80         4C:76:25:22:49:81   PowerEdgeFC630      24:8a:07:1e:86:00      24:8a:07:1e:86:01
+Server-3    12LPJB2       4C:76:25:22:49:9A         4C:76:25:22:49:9B   PowerEdgeFC630      24:8a:07:1e:85:98      24:8a:07:1e:85:99
+
+===== U27 - 54:9F:35:19:44:70 CMC-CXG6942 R4-PA-C04-CURLY =====
+<Name>      <Presence>    <BMC MAC Address>         <NIC0 MAC Address>  <Blade Type>        <NIC25-0 MAC Address>  <NIC25-1 MAC Address>  <PORT>
+U27-CMC     CXG6942       N/A                       54:9F:35:19:44:70   PowerEdgeFX2s       N/A                    N/A                    N/A
+Server-1    CXG5942       4C:76:25:C6:28:00         4C:76:25:C6:28:01   PowerEdgeFC630      b8:59:9f:35:fc:b2      b8:59:9f:35:fc:b3
+Server-2    122QJB2       4C:76:25:C6:28:0D         4C:76:25:C6:28:0E   PowerEdgeFC630      b8:59:9f:35:fd:e6      b8:59:9f:35:fd:e7
+
+===== U25 - F4:8E:38:C3:07:90 CMC-12JRJB2 R4-PA-C04-LARRY =====
+<Name>      <Presence>    <BMC MAC Address>         <NIC0 MAC Address>  <Blade Type>        <NIC25-0 MAC Address>  <NIC25-1 MAC Address>  <PORT>
+U25-CMC     12JRJB2       N/A                       F4:8E:38:C3:07:90   PowerEdgeFX2s       N/A                    N/A                    N/A
+Server-1    12ZMJB2       F8:CA:B8:90:B2:00         F8:CA:B8:90:B2:01   PowerEdgeFC630      b8:59:9f:3a:f5:d6      b8:59:9f:3a:f5:d7
+Server-2    127NJB2       F8:CA:B8:90:B2:0D         F8:CA:B8:90:B2:0E   PowerEdgeFC630      b8:59:9f:2a:92:3c      b8:59:9f:2a:92:3d
+
+===== U23 - 54:9F:35:19:45:3E CMC-CXS3942 R4-PA-C04-MOE =====
+<Name>      <Presence>    <BMC MAC Address>         <NIC0 MAC Address>  <Blade Type>        <NIC25-0 MAC Address>  <NIC25-1 MAC Address>  <PORT>
+U23-CMC     CXS3942       N/A                       54:9F:35:19:45:3E   PowerEdgeFX2s       N/A                    N/A                    N/A
+Server-1    CXP6942       4C:76:25:C0:82:80         4C:76:25:C0:82:81   PowerEdgeFC630      b8:59:9f:27:98:14      b8:59:9f:27:98:15
+Server-2    CXS6942       4C:76:25:C0:82:8D         4C:76:25:C0:82:8E   PowerEdgeFC630      b8:59:9f:35:f4:12      b8:59:9f:35:f4:13
