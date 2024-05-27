@@ -1,0 +1,116 @@
+Location        Model            Serial  Port   BMC               NIC1              NIC2              One25G            Two25G            Proc Count and Model DIMM Count and Size
+
+===== U03 - F4:8E:38:C7:43:04 - CMC-JVDHDH2 - R4-PA-C06-U37 =====
+U03-CMC         PowerEdgeFX2s    JVDHDH2 na     F4:8E:38:C7:43:04
+U03-Server-1    PowerEdgeFC830   6LSBMR2 1/1/2  40:5C:FD:38:4C:80 40:5C:FD:38:4C:81 40:5C:FD:38:4C:84 7c:fe:90:cb:74:2e 7c:fe:90:cb:74:2f 4 Intel(R) Xeon(R) CPU E5-4669 v4 @ 2.20GHz 32 64 GB
+U03-Server-3    PowerEdgeFC830   6LS9MR2 1/1/1  40:5C:FD:38:4C:9A 40:5C:FD:38:4C:9B 40:5C:FD:38:4C:9E 7c:fe:90:cb:73:3a 7c:fe:90:cb:73:3b 4 Intel(R) Xeon(R) CPU E5-4669 v4 @ 2.20GHz 32 64 GB
+
+===== U05 - F4:8E:38:C7:43:04 - CMC-JVDHDH2 - R4-PA-C06-U37 =====
+U05-CMC         PowerEdgeFX2s    JVDHDH2 na     F4:8E:38:C7:43:04
+U05-Server-1    PowerEdgeFC830   8958RP2 1/1/4  54:48:10:64:F7:00 40:5C:FD:37:63:C1 40:5C:FD:37:63:C4 7c:fe:90:cb:73:6e 7c:fe:90:cb:73:6f 4 Intel(R) Xeon(R) CPU E5-4669 v4 @ 2.20GHz 32 64 GB
+U05-Server-3    PowerEdgeFC830   8959RP2 1/1/3  54:48:10:64:F7:1A 40:5C:FD:37:63:DB 40:5C:FD:37:63:DE 24:8a:07:1e:34:a2 24:8a:07:1e:34:a3 4 Intel(R) Xeon(R) CPU E5-4669 v4 @ 2.20GHz 32 64 GB
+
+===== U07 - F4:8E:38:C7:43:04 - CMC-JVDHDH2 - R4-PA-C06-U37 =====
+U07-CMC         PowerEdgeFX2s    JVDHDH2 na     F4:8E:38:C7:43:04
+U07-Server-1    PowerEdgeFC830   8968RP2 1/2/2  10:7D:1A:4F:80:00 10:7D:1A:4F:80:01 10:7D:1A:4F:80:04 24:8a:07:1e:2e:12 24:8a:07:1e:2e:13 4 Intel(R) Xeon(R) CPU E5-4669 v4 @ 2.20GHz 32 64 GB
+U07-Server-3    PowerEdgeFC830   8969RP2 1/2/1  10:7D:1A:4F:80:1A 10:7D:1A:4F:80:1B 10:7D:1A:4F:80:1E b8:59:9f:35:f4:02 b8:59:9f:35:f4:03 4 Intel(R) Xeon(R) CPU E5-4669 v4 @ 2.20GHz 32 64 GB
+
+===== U09 - F4:8E:38:C7:43:04 - CMC-JVDHDH2 - R4-PA-C06-U37 =====
+U09-CMC         PowerEdgeFX2s    JVDHDH2 na     F4:8E:38:C7:43:04
+U09-Server-1    PowerEdgeFC830   4BBM2S2 1/2/4  CC:C5:E5:12:1F:10 CC:C5:E5:12:1F:11 CC:C5:E5:12:1F:14 b8:59:9f:27:92:98 b8:59:9f:27:92:99 4 Intel(R) Xeon(R) CPU E5-4669 v4 @ 2.20GHz 32 64 GB
+U09-Server-3    PowerEdgeFC830   4BBN2S2 1/2/3  CC:C5:E5:12:1F:2A CC:C5:E5:12:1F:2B CC:C5:E5:12:1F:2E 98:03:9b:a9:e9:04 98:03:9b:a9:e9:05 4 Intel(R) Xeon(R) CPU E5-4669 v4 @ 2.20GHz 32 64 GB
+
+===== U11 - F4:8E:38:C7:43:04 - CMC-JVDHDH2 - R4-PA-C06-U37 =====
+U11-CMC         PowerEdgeFX2s    JVDHDH2 na     F4:8E:38:C7:43:04
+U11-Server-1    PowerEdgeFC830   GTKK9Z2 1/3/2  D8:D0:90:72:D1:80 D8:D0:90:72:D1:81 D8:D0:90:72:D1:84 b8:59:9f:37:d9:e0 b8:59:9f:37:d9:e1 4 Intel(R) Xeon(R) CPU E5-4669 v4 @ 2.20GHz 32 64 GB
+U11-Server-3    PowerEdgeFC830   GTKV4Z2 1/3/1  D8:D0:90:72:D1:9A D8:D0:90:72:D1:9B D8:D0:90:72:D1:9E b8:59:9f:1a:ca:f6 b8:59:9f:1a:ca:f7 4 Intel(R) Xeon(R) CPU E5-4669 v4 @ 2.20GHz 32 64 GB
+
+===== U13 - F4:8E:38:C7:43:04 - CMC-JVDHDH2 - R4-PA-C06-U37 =====
+U13-CMC         PowerEdgeFX2s    JVDHDH2 na     F4:8E:38:C7:43:04
+U13-Server-1    PowerEdgeFC830   GTJX4Z2 1/3/4  D8:D0:90:8E:D1:60 D8:D0:90:8E:D1:61 D8:D0:90:8E:D1:64 24:8a:07:1e:31:1a 24:8a:07:1e:31:1b 4 Intel(R) Xeon(R) CPU E5-4669 v4 @ 2.20GHz 32 64 GB
+U13-Server-3    PowerEdgeFC830   4N5R2S2 1/3/3  D8:D0:90:8E:D1:7A D8:D0:90:8E:D1:7B D8:D0:90:8E:D1:7E 98:03:9b:9c:b6:d4 98:03:9b:9c:b6:d5 4 Intel(R) Xeon(R) CPU E5-4669 v4 @ 2.20GHz 32 64 GB
+
+===== U15 - F4:8E:38:C7:43:04 - CMC-JVDHDH2 - R4-PA-C06-U37 =====
+U15-CMC         PowerEdgeFX2s    JVDHDH2 na     F4:8E:38:C7:43:04
+U15-Server-1    PowerEdgeFC830   CNB2HQ2 1/4/2  40:5C:FD:39:29:00 40:5C:FD:39:29:01 40:5C:FD:39:29:04 b8:59:9f:3a:e1:56 b8:59:9f:3a:e1:57 4 Intel(R) Xeon(R) CPU E5-4669 v4 @ 2.20GHz 32 64 GB
+U15-Server-3    PowerEdgeFC830   4N5S2S2 1/4/1  40:5C:FD:39:29:1A 40:5C:FD:39:29:1B 40:5C:FD:39:29:1E 24:8a:07:1e:2e:72 24:8a:07:1e:2e:73 4 Intel(R) Xeon(R) CPU E5-4669 v4 @ 2.20GHz 32 64 GB
+
+===== U17 - F4:8E:38:C7:43:04 - CMC-JVDHDH2 - R4-PA-C06-U37 =====
+U17-CMC         PowerEdgeFX2s    JVDHDH2 na     F4:8E:38:C7:43:04
+U17-Server-1    PowerEdgeFC830   6LT5MR2 1/4/4  B8:85:84:F2:46:40 B8:85:84:F2:46:41 B8:85:84:F2:46:44 7c:fe:90:cb:76:5a 7c:fe:90:cb:76:5b 4 Intel(R) Xeon(R) CPU E5-4669 v4 @ 2.20GHz 32 64 GB
+U17-Server-3    PowerEdgeFC830   6LT6MR2 1/4/3  B8:85:84:F2:46:5A B8:85:84:F2:46:5B B8:85:84:F2:46:5E 24:8a:07:1e:85:a8 24:8a:07:1e:85:a9 4 Intel(R) Xeon(R) CPU E5-4669 v4 @ 2.20GHz 32 64 GB
+
+===== U19 - F4:8E:38:C7:43:04 - CMC-JVDHDH2 - R4-PA-C06-U37 =====
+U19-CMC         PowerEdgeFX2s    JVDHDH2 na     F4:8E:38:C7:43:04
+U19-Server-1    PowerEdgeFC830   H22CHQ2 1/5/2  A8:99:69:C5:12:80 A8:99:69:C5:12:81 A8:99:69:C5:12:84 50:6b:4b:38:8e:12 50:6b:4b:38:8e:13 4 Intel(R) Xeon(R) CPU E5-4669 v4 @ 2.20GHz 32 64 GB
+U19-Server-3    PowerEdgeFC830   H22DHQ2 1/5/1  A8:99:69:C5:12:9A A8:99:69:C5:12:9B A8:99:69:C5:12:9E 50:6b:4b:23:29:98 50:6b:4b:23:29:99 4 Intel(R) Xeon(R) CPU E5-4669 v4 @ 2.20GHz 32 64 GB
+
+===== U21 - F4:8E:38:C7:43:04 - CMC-JVDHDH2 - R4-PA-C06-U37 =====
+U21-CMC         PowerEdgeFX2s    JVDHDH2 na     F4:8E:38:C7:43:04
+U21-Server-1    PowerEdgeFC830   2PFGCP2 1/5/4  10:7D:1A:4C:DE:40 10:7D:1A:4C:DE:41 10:7D:1A:4C:DE:44 7c:fe:90:40:a2:8e 7c:fe:90:40:a2:8f 4 Intel(R) Xeon(R) CPU E5-4669 v4 @ 2.20GHz 32 64 GB
+U21-Server-3    PowerEdgeFC830   2PG8CP2 1/5/3  10:7D:1A:4C:DE:5A 10:7D:1A:4C:DE:5B 10:7D:1A:4C:DE:5E 50:6b:4b:1d:62:02 50:6b:4b:1d:62:03 4 Intel(R) Xeon(R) CPU E5-4669 v4 @ 2.20GHz 32 64 GB
+
+===== U23 - F4:8E:38:C7:43:04 - CMC-JVDHDH2 - R4-PA-C06-U37 =====
+U23-CMC         PowerEdgeFX2s    JVDHDH2 na     F4:8E:38:C7:43:04
+U23-Server-1    PowerEdgeFC830   CNB71Q2 1/6/2  A8:99:69:89:EB:C0 A8:99:69:89:EB:C1 A8:99:69:89:EB:C4 24:8a:07:1e:2e:2a 24:8a:07:1e:2e:2b 4 Intel(R) Xeon(R) CPU E5-4669 v4 @ 2.20GHz 32 64 GB
+U23-Server-3    PowerEdgeFC830   CNB61Q2 1/6/1  A8:99:69:89:EB:DA A8:99:69:89:EB:DB A8:99:69:89:EB:DE 7c:fe:90:cb:76:12 7c:fe:90:cb:76:13 4 Intel(R) Xeon(R) CPU E5-4669 v4 @ 2.20GHz 32 64 GB
+
+===== U25 - F4:8E:38:C7:43:04 - CMC-JVDHDH2 - R4-PA-C06-U37 =====
+U25-CMC         PowerEdgeFX2s    JVDHDH2 na     F4:8E:38:C7:43:04
+U25-Server-1    PowerEdgeFC830   6LS7MR2 1/6/4  B8:85:84:F2:83:80 B8:85:84:F2:83:81 B8:85:84:F2:83:84 24:8a:07:1e:2e:d6 24:8a:07:1e:2e:d7 4 Intel(R) Xeon(R) CPU E5-4669 v4 @ 2.20GHz 32 64 GB
+U25-Server-3    PowerEdgeFC830   6LS8MR2 1/6/3  B8:85:84:F2:83:9A B8:85:84:F2:83:9B B8:85:84:F2:83:9E 7c:fe:90:cb:72:46 7c:fe:90:cb:72:47 4 Intel(R) Xeon(R) CPU E5-4669 v4 @ 2.20GHz 32 64 GB
+
+===== U27 - F4:8E:38:C7:43:04 - CMC-JVDHDH2 - R4-PA-C06-U37 =====
+U27-CMC         PowerEdgeFX2s    JVDHDH2 na     F4:8E:38:C7:43:04
+U27-Server-1    PowerEdgeFC830   2PFDCP2 1/7/2  40:5C:FD:39:A3:80 40:5C:FD:39:A3:81 40:5C:FD:39:A3:84 0c:42:a1:7b:e4:d8 0c:42:a1:7b:e4:d9 4 Intel(R) Xeon(R) CPU E5-4669 v4 @ 2.20GHz 32 64 GB
+U27-Server-3    PowerEdgeFC830   2PFFCP2 1/7/1  40:5C:FD:39:A3:9A 40:5C:FD:39:A3:9B 40:5C:FD:39:A3:9E 7c:fe:90:cb:73:32 7c:fe:90:cb:73:33 4 Intel(R) Xeon(R) CPU E5-4669 v4 @ 2.20GHz 32 64 GB
+
+===== U29 - F4:8E:38:C7:43:04 - CMC-JVDHDH2 - R4-PA-C06-U37 =====
+U29-CMC         PowerEdgeFX2s    JVDHDH2 na     F4:8E:38:C7:43:04
+U29-Server-1    PowerEdgeFC830   15V5DV2 1/7/4  CC:C5:E5:DF:C4:A0 CC:C5:E5:DF:C4:A1 CC:C5:E5:DF:C4:A4 ec:0d:9a:ae:0c:90 ec:0d:9a:ae:0c:91 4 Intel(R) Xeon(R) CPU E5-4669 v4 @ 2.20GHz 32 64 GB
+U29-Server-3    PowerEdgeFC830   15W0DV2 1/7/3  CC:C5:E5:DF:C4:BA CC:C5:E5:DF:C4:BB CC:C5:E5:DF:C4:BE 0c:42:a1:7b:e4:e8 0c:42:a1:7b:e4:e9 4 Intel(R) Xeon(R) CPU E5-4669 v4 @ 2.20GHz 32 64 GB
+
+===== U31 - F4:8E:38:C7:43:04 - CMC-JVDHDH2 - R4-PA-C06-U37 =====
+U31-CMC         PowerEdgeFX2s    JVDHDH2 na     F4:8E:38:C7:43:04
+U31-Server-1a   PowerEdgeFC430   HB841Q2 1/21/1 10:7D:1A:A0:97:40 10:7D:1A:A0:97:41 10:7D:1A:A0:97:44                                     2 Intel(R) Xeon(R) CPU E5-2640 v4 @ 2.40GHz 8 16 GB
+U31-Server-1b   PowerEdgeFC430   HB801Q2 1/21/2 10:7D:1A:A0:98:10 10:7D:1A:A0:98:2F 10:7D:1A:A0:98:32                                     2 Intel(R) Xeon(R) CPU E5-2640 v4 @ 2.40GHz 8 16 GB
+U31-Server-1c   PowerEdgeFC430   HB751Q2 1/22/1 10:7D:1A:A0:9D:C9 10:7D:1A:A0:97:A9 10:7D:1A:A0:97:AC                                     2 Intel(R) Xeon(R) CPU E5-2640 v4 @ 2.40GHz 8 16 GB
+U31-Server-1d   PowerEdgeFC430   HB831Q2 1/22/2 10:7D:1A:A0:9D:CA 10:7D:1A:A0:9D:E7 10:7D:1A:A0:9D:EA                                     2 Intel(R) Xeon(R) CPU E5-2640 v4 @ 2.40GHz 8 16 GB
+U31-Server-3a   PowerEdgeFC430   H9S31Q2 1/21/3 10:7D:1A:A0:97:5A 10:7D:1A:A0:97:5B 10:7D:1A:A0:97:5E                                     2 Intel(R) Xeon(R) CPU E5-2640 v4 @ 2.40GHz 8 16 GB
+U31-Server-3b   PowerEdgeFC430   JVCWJH2 1/21/4 10:7D:1A:A0:99:7E 10:7D:1A:A0:99:9D 10:7D:1A:A0:99:A0                                     2 Intel(R) Xeon(R) CPU E5-2640 v4 @ 2.40GHz 8 16 GB
+U31-Server-3c   PowerEdgeFC430   JVCWDH2 1/22/3 10:7D:1A:A0:9F:37 10:7D:1A:A0:97:C3 10:7D:1A:A0:97:C6                                     2 Intel(R) Xeon(R) CPU E5-2640 v4 @ 2.40GHz 8 16 GB
+U31-Server-3d   PowerEdgeFC430   H9S11Q2 1/22/4 10:7D:1A:A0:9F:38 10:7D:1A:A0:9F:55 10:7D:1A:A0:9F:58                                     2 Intel(R) Xeon(R) CPU E5-2640 v4 @ 2.40GHz 8 16 GB
+
+===== U33 - F4:8E:38:C7:43:04 - CMC-JVDHDH2 - R4-PA-C06-U37 =====
+U33-CMC         PowerEdgeFX2s    JVDHDH2 na     F4:8E:38:C7:43:04
+U33-Server-1a   PowerEdgeFC430   H9S21Q2 1/23/1 A8:99:69:82:99:80 A8:99:69:82:99:81 A8:99:69:82:99:84                                     2 Intel(R) Xeon(R) CPU E5-2640 v4 @ 2.40GHz 8 16 GB
+U33-Server-1b   PowerEdgeFC430   H9R51Q2 1/23/2 A8:99:69:82:9A:50 A8:99:69:82:9A:6F A8:99:69:82:9A:72                                     2 Intel(R) Xeon(R) CPU E5-2640 v4 @ 2.40GHz 8 16 GB
+U33-Server-1c   PowerEdgeFC430   H9R41Q2 1/24/1 A8:99:69:82:A0:09 A8:99:69:82:99:E9 A8:99:69:82:99:EC                                     2 Intel(R) Xeon(R) CPU E5-2640 v4 @ 2.40GHz 8 16 GB
+U33-Server-1d   PowerEdgeFC430   H9RZ0Q2 1/24/2 A8:99:69:82:A0:0A A8:99:69:82:A0:27 A8:99:69:82:A0:2A                                     2 Intel(R) Xeon(R) CPU E5-2640 v4 @ 2.40GHz 8 16 GB
+U33-Server-3a   PowerEdgeFC430   JVD1KH2 1/23/3 A8:99:69:82:99:9A A8:99:69:82:99:9B A8:99:69:82:99:9E                                     2 Intel(R) Xeon(R) CPU E5-2640 v4 @ 2.40GHz 8 16 GB
+U33-Server-3b   PowerEdgeFC430   JGDQJH2 1/23/4 A8:99:69:82:9B:BE A8:99:69:82:9B:DD A8:99:69:82:9B:E0                                     2 Intel(R) Xeon(R) CPU E5-2640 v4 @ 2.40GHz 8 16 GB
+U33-Server-3c   PowerEdgeFC430   50CXKH2 1/24/3 A8:99:69:82:A1:77 A8:99:69:82:9A:03 A8:99:69:82:9A:06                                     2 Intel(R) Xeon(R) CPU E5-2640 v4 @ 2.40GHz 8 16 GB
+U33-Server-3d   PowerEdgeFC430   H9X51Q2 1/24/4 A8:99:69:82:A1:78 A8:99:69:82:A1:95 A8:99:69:82:A1:98                                     2 Intel(R) Xeon(R) CPU E5-2640 v4 @ 2.40GHz 8 16 GB
+
+===== U35 - F4:8E:38:C7:43:04 - CMC-JVDHDH2 - R4-PA-C06-U37 =====
+U35-CMC         PowerEdgeFX2s    JVDHDH2 na     F4:8E:38:C7:43:04
+U35-Server-1a   PowerEdgeFC430   504XKH2 1/25/1 40:5C:FD:68:3F:00 40:5C:FD:68:3F:01 40:5C:FD:68:3F:04                                     2 Intel(R) Xeon(R) CPU E5-2640 v4 @ 2.40GHz 8 16 GB
+U35-Server-1b   PowerEdgeFC430   JVCWHH2 1/25/2 40:5C:FD:68:3F:D0 40:5C:FD:68:3F:EF 40:5C:FD:68:3F:F2                                     2 Intel(R) Xeon(R) CPU E5-2640 v4 @ 2.40GHz 8 16 GB
+U35-Server-1c   PowerEdgeFC430   5053LH2 1/26/1 40:5C:FD:68:45:89 40:5C:FD:68:3F:69 40:5C:FD:68:3F:6C                                     2 Intel(R) Xeon(R) CPU E5-2640 v4 @ 2.40GHz 8 16 GB
+U35-Server-1d   PowerEdgeFC430   50B4LH2 1/26/2 40:5C:FD:68:45:8A 40:5C:FD:68:45:A7 40:5C:FD:68:45:AA                                     2 Intel(R) Xeon(R) CPU E5-2640 v4 @ 2.40GHz 8 16 GB
+U35-Server-3a   PowerEdgeFC430   5055LH2 1/25/3 40:5C:FD:68:3F:1A 40:5C:FD:68:3F:1B 40:5C:FD:68:3F:1E                                     2 Intel(R) Xeon(R) CPU E5-2640 v4 @ 2.40GHz 8 16 GB
+U35-Server-3b   PowerEdgeFC430   JVCYDH2 1/25/4 40:5C:FD:68:41:3E 40:5C:FD:68:41:5D 40:5C:FD:68:41:60                                     2 Intel(R) Xeon(R) CPU E5-2640 v4 @ 2.40GHz 8 16 GB
+U35-Server-3c   PowerEdgeFC430   505XKH2 1/26/3 40:5C:FD:68:46:F7 40:5C:FD:68:3F:83 40:5C:FD:68:3F:86                                     2 Intel(R) Xeon(R) CPU E5-2640 v4 @ 2.40GHz 8 16 GB
+U35-Server-3d   PowerEdgeFC430   5054LH2 1/26/4 40:5C:FD:68:46:F8 40:5C:FD:68:47:15 40:5C:FD:68:47:18                                     2 Intel(R) Xeon(R) CPU E5-2640 v4 @ 2.40GHz 8 16 GB
+
+===== U37 - F4:8E:38:C7:43:04 - CMC-JVDHDH2 - R4-PA-C06-U37 =====
+U37-CMC         PowerEdgeFX2s    JVDHDH2 na     F4:8E:38:C7:43:04
+U37-Server-1a   PowerEdgeFC430   JGCWJH2 1/27/1 10:7D:1A:9C:55:00 10:7D:1A:9C:55:01 10:7D:1A:9C:55:04                                     2 Intel(R) Xeon(R) CPU E5-2640 v4 @ 2.40GHz 8 16 GB
+U37-Server-1b   PowerEdgeFC430   JGCTJH2 1/27/2 10:7D:1A:9C:55:D0 10:7D:1A:9C:55:EF 10:7D:1A:9C:55:F2                                     2 Intel(R) Xeon(R) CPU E5-2640 v4 @ 2.40GHz 8 16 GB
+U37-Server-1c   PowerEdgeFC430   H9Q21Q2 1/28/1 10:7D:1A:9C:5B:89 10:7D:1A:9C:55:69 10:7D:1A:9C:55:6C                                     2 Intel(R) Xeon(R) CPU E5-2640 v4 @ 2.40GHz 8 16 GB
+U37-Server-1d   PowerEdgeFC430   JGCXJH2 1/28/2 10:7D:1A:9C:5B:8A 10:7D:1A:9C:5B:A7 10:7D:1A:9C:5B:AA                                     2 Intel(R) Xeon(R) CPU E5-2640 v4 @ 2.40GHz 8 16 GB
+U37-Server-3a   PowerEdgeFC430   JGCVJH2 1/27/3 10:7D:1A:9C:55:1A 10:7D:1A:9C:55:1B 10:7D:1A:9C:55:1E                                     2 Intel(R) Xeon(R) CPU E5-2640 v4 @ 2.40GHz 8 16 GB
+U37-Server-3b   PowerEdgeFC430   JGDMJH2 1/27/4 10:7D:1A:9C:57:3E 10:7D:1A:9C:57:5D 10:7D:1A:9C:57:60                                     2 Intel(R) Xeon(R) CPU E5-2640 v4 @ 2.40GHz 8 16 GB
+U37-Server-3c   PowerEdgeFC430   JGD2KH2 1/28/3 10:7D:1A:9C:5C:F7 10:7D:1A:9C:55:83 10:7D:1A:9C:55:86                                     2 Intel(R) Xeon(R) CPU E5-2640 v4 @ 2.40GHz 8 16 GB
+U37-Server-3d   PowerEdgeFC430   JGCSJH2 1/28/4 10:7D:1A:9C:5C:F8 10:7D:1A:9C:5D:15 10:7D:1A:9C:5D:18                                     2 Intel(R) Xeon(R) CPU E5-2640 v4 @ 2.40GHz 8 16 GB
+
