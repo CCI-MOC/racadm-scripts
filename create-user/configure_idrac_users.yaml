@@ -1,0 +1,25 @@
+- name: Configure iDRAC User
+  hosts: idracs
+  gather_facts: no
+  ignore_unreachable: yes
+  tasks:
+    - name: Set iDRAC Username
+      raw: racadm set iDRAC.Users.{{ idrac_new_user_id }}.UserName {{ idrac_new_username }}
+
+    - name: Set iDRAC Password
+      raw: racadm set iDRAC.Users.{{ idrac_new_user_id }}.Password {{ idrac_new_password }}
+
+    - name: Set iDRAC Privilege
+      raw: racadm set iDRAC.Users.{{ idrac_new_user_id }}.Privilege 0x9
+
+    - name: Enable iDRAC User
+      raw: racadm set iDRAC.Users.{{ idrac_new_user_id }}.Enable 1
+
+    - name: Enable SNMPv3
+      raw: racadm set iDRAC.Users.{{ idrac_new_user_id }}.SNMPv3Enable 1
+
+    - name: Disable Serial over LAN
+      raw: racadm set iDRAC.Users.{{ idrac_new_user_id }}.SolEnable 0
+
+    - name: Set IPMI LAN Privilege
+      raw: racadm set iDRAC.Users.{{ idrac_new_user_id }}.IpmiLanPrivilege 2
